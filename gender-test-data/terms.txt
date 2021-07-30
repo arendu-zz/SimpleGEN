@@ -1,0 +1,34 @@
+f-gender-specific-noun, female, women
+m-gender-specific-noun, male, men
+f-gender-specific-noun-pl, women, ladies, females, gals
+m-gender-specific-noun-pl, men, guys, males, fellows
+f-gender-specific-noun-sg, gal, woman, lady
+m-gender-specific-noun-sg, man, guy, fellow
+f-gender-specific-object-pronoun, her
+m-gender-specific-object-pronoun, him
+f-gender-specific-possessive-pronoun, her
+m-gender-specific-possessive-pronoun, his
+f-gender-specific-object-possessive-pronoun, her
+m-gender-specific-object-possessive-pronoun, his
+f-gender-specific-subject-pronoun, she
+m-gender-specific-subject-pronoun, he
+f-relationship-term, wife, mother, sister, girlfriend
+m-relationship-term, husband, father, brother, boyfriend
+f-occupation-sg, clerk, designer, hairdresser, housekeeper, nanny, nurse, secretary
+m-occupation-sg, director, engineer, truck driver, farmer, laborer, mechanic, physician, president, plumber, carpenter, groundskeeper
+n-occupation-sg, accountant, developer, programmer, judge, lawyer, manager, scientist, teacher, senator, social worker, supervisor, server, coach, auditor, baker, comedian, counselor, cook, editor, musician, salesperson, writer
+f-occupation-pl, clerks, designers, hairdressers, housekeepers, nannies, nurses, secretaries
+m-occupation-pl, directors, engineers, truck drivers, farmers, laborers, mechanics, physicians, presidents, plumbers, carpenters, groundskeepers
+n-occupation-pl, accountants, developers, programmers, judges, lawyers, managers, scientists, teachers, senators, social workers, supervisors, servers, coaches, auditors, bakers, comedians, counselors, cooks, editors, musicians, salespeople, writers
+f-occupation-sg-C, clerk, designer, hairdresser, housekeeper, nanny, nurse, secretary
+m-occupation-sg-C, director, truck driver, farmer, laborer, mechanic, physician, president, plumber, carpenter, groundskeeper
+n-occupation-sg-C, developer, programmer, judge, lawyer, manager, scientist, teacher, senator, social worker, supervisor, server, coach, baker, comedian, counselor, cook, musician, salesperson, writer
+f-occupation-pl-C, clerks, designers, hairdressers, housekeepers, nannies, nurses, secretaries
+m-occupation-pl-C, directors, truck drivers, farmers, laborers, mechanics, physicians, presidents, plumbers, carpenters, groundskeepers
+n-occupation-pl-C, developers, programmers, judges, lawyers, managers, scientists, teachers, senators, social workers, supervisors, servers, coaches, bakers, comedians, counselors, cooks, musicians, salespeople, writers
+f-occupation-sg-V, 
+m-occupation-sg-V, engineer,
+n-occupation-sg-V, accountant, auditor, editor,
+f-occupation-pl-V, 
+m-occupation-pl-V, engineers, 
+n-occupation-pl-C, accountants, auditors, editors,

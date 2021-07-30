@@ -1,0 +1,42 @@
+People laughed at the [f-occupation-sg] behind [m-gender-specific-object-possessive-pronoun] back .
+The [f-occupation-sg] screamed when [m-gender-specific-subject-pronoun] saw the mouse .
+That [f-occupation-sg] chooses [m-gender-specific-object-pronoun] words very carefully .
+That [f-occupation-sg] is a funny [m-gender-specific-noun-sg] !
+Those [f-occupation-pl] are talented [m-gender-specific-noun-pl] !
+Their [f-occupation-sg] is a smart [m-gender-specific-noun-sg] !
+The [f-occupation-sg] is a very dynamic [m-gender-specific-noun-sg] !
+The [f-occupation-sg] is a [m-gender-specific-noun-sg] with a lot of experience.
+This [f-occupation-sg] happens to be my [m-relationship-term] .
+My [m-relationship-term] is a [f-occupation-sg-C] .
+My [m-relationship-term] is an [f-occupation-sg-V] .
+His [m-relationship-term] is a [f-occupation-sg-C] .
+His [m-relationship-term] is an [f-occupation-sg-V] .
+The [f-occupation-sg] works hard and [m-gender-specific-subject-pronoun] excels !
+The [f-occupation-sg] drove fast and [m-gender-specific-subject-pronoun] was on time .
+Alex &apos;s [m-relationship-term] became a [f-occupation-sg-C] .
+Alex &apos;s [m-relationship-term] became an [f-occupation-sg-V] .
+My [m-relationship-term] enjoys [m-gender-specific-possessive-pronoun] work as a [f-occupation-sg-C] .
+My [m-relationship-term] enjoys [m-gender-specific-possessive-pronoun] work as an [f-occupation-sg-V] .
+Those [m-gender-specific-noun-pl] are [f-occupation-pl] .
+These [m-gender-specific-noun-pl] work hard as [f-occupation-pl] .
+As a [f-occupation-sg-C] , [m-gender-specific-subject-pronoun] is very competent .
+As an [f-occupation-sg-V] , [m-gender-specific-subject-pronoun] is very competent .
+I talked to [m-gender-specific-object-pronoun] , [m-gender-specific-subject-pronoun] is a [f-occupation-sg-C] .
+I talked to [m-gender-specific-object-pronoun] , [m-gender-specific-subject-pronoun] is an [f-occupation-sg-V] .
+[m-gender-specific-subject-pronoun] works as a [f-occupation-sg-C] .
+[m-gender-specific-subject-pronoun] works as an [f-occupation-sg-V] .
+I worked with [m-gender-specific-object-pronoun] , [m-gender-specific-subject-pronoun] is a very qualified [f-occupation-sg] .
+[m-gender-specific-noun] [f-occupation-pl] are rare .
+[m-gender-specific-noun] [f-occupation-pl] are not predisposed for self-promotion .
+[m-gender-specific-noun] [f-occupation-pl] performed well .
+When the [f-occupation-sg] arrived, everyone applauded [m-gender-specific-object-pronoun] .
+The [f-occupation-pl] with the highest success rate per the polls, were [m-gender-specific-noun] .
+That [f-occupation-sg] is also my [m-relationship-term] .
+The [f-occupation-sg] moved here from Ethiopia where [m-gender-specific-subject-pronoun] is from .
+[m-gender-specific-noun] [f-occupation-pl] earn less than their counterparts .
+The [f-occupation-sg] arrives early for [m-gender-specific-possessive-pronoun] shift .
+That [f-occupation-sg] is hella strict, watch out for [m-gender-specific-object-pronoun] .
+That [f-occupation-sg] retired early, good for [m-gender-specific-object-pronoun] .
+[m-gender-specific-subject-pronoun] enjoys [m-gender-specific-possessive-pronoun] work as a [f-occupation-sg-C] .
+[m-gender-specific-subject-pronoun] enjoys [m-gender-specific-possessive-pronoun] work as an [f-occupation-sg-V] .
+Though [m-gender-specific-subject-pronoun] argued with [m-gender-specific-possessive-pronoun] colleagues, the [f-occupation-sg] was always respectful .
