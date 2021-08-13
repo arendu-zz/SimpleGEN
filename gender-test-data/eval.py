@@ -10,8 +10,8 @@ if __name__ == '__main__':
 
     # insert options here
     opt.add_argument('src_file', type=str, help='this is a positional arg')
-    opt.add_argument('translation_file', type=str, help='this is a positional arg')
     opt.add_argument('expected_gender_file', type=str, help='this is a positional arg')
+    opt.add_argument('translation_file', type=str, help='this is a positional arg')
     opt.add_argument('dictionary', type=str, help='this is a positional arg')
     options = opt.parse_args()
 
