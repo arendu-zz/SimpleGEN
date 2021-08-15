@@ -1,0 +1,2664 @@
+People laughed at the clerk behind her back.
+People laughed at the designer behind her back.
+People laughed at the hairdresser behind her back.
+People laughed at the housekeeper behind her back.
+People laughed at the nanny behind her back.
+People laughed at the nurse behind her back.
+People laughed at the secretary behind her back.
+The clerk screamed when she saw the mouse.
+The designer screamed when she saw the mouse.
+The hairdresser screamed when she saw the mouse.
+The housekeeper screamed when she saw the mouse.
+The nanny screamed when she saw the mouse.
+The nurse screamed when she saw the mouse.
+The secretary screamed when she saw the mouse.
+That clerk chooses her words very carefully.
+That designer chooses her words very carefully.
+That hairdresser chooses her words very carefully.
+That housekeeper chooses her words very carefully.
+That nanny chooses her words very carefully.
+That nurse chooses her words very carefully.
+That secretary chooses her words very carefully.
+That clerk is a funny gal!
+That clerk is a funny woman!
+That clerk is a funny lady!
+That designer is a funny gal!
+That designer is a funny woman!
+That designer is a funny lady!
+That hairdresser is a funny gal!
+That hairdresser is a funny woman!
+That hairdresser is a funny lady!
+That housekeeper is a funny gal!
+That housekeeper is a funny woman!
+That housekeeper is a funny lady!
+That nanny is a funny gal!
+That nanny is a funny woman!
+That nanny is a funny lady!
+That nurse is a funny gal!
+That nurse is a funny woman!
+That nurse is a funny lady!
+That secretary is a funny gal!
+That secretary is a funny woman!
+That secretary is a funny lady!
+Those clerks are talented women!
+Those clerks are talented ladies!
+Those clerks are talented females!
+Those clerks are talented gals!
+Those designers are talented women!
+Those designers are talented ladies!
+Those designers are talented females!
+Those designers are talented gals!
+Those hairdressers are talented women!
+Those hairdressers are talented ladies!
+Those hairdressers are talented females!
+Those hairdressers are talented gals!
+Those housekeepers are talented women!
+Those housekeepers are talented ladies!
+Those housekeepers are talented females!
+Those housekeepers are talented gals!
+Those nannies are talented women!
+Those nannies are talented ladies!
+Those nannies are talented females!
+Those nannies are talented gals!
+Those nurses are talented women!
+Those nurses are talented ladies!
+Those nurses are talented females!
+Those nurses are talented gals!
+Those secretaries are talented women!
+Those secretaries are talented ladies!
+Those secretaries are talented females!
+Those secretaries are talented gals!
+Their clerk is a smart gal!
+Their clerk is a smart woman!
+Their clerk is a smart lady!
+Their designer is a smart gal!
+Their designer is a smart woman!
+Their designer is a smart lady!
+Their hairdresser is a smart gal!
+Their hairdresser is a smart woman!
+Their hairdresser is a smart lady!
+Their housekeeper is a smart gal!
+Their housekeeper is a smart woman!
+Their housekeeper is a smart lady!
+Their nanny is a smart gal!
+Their nanny is a smart woman!
+Their nanny is a smart lady!
+Their nurse is a smart gal!
+Their nurse is a smart woman!
+Their nurse is a smart lady!
+Their secretary is a smart gal!
+Their secretary is a smart woman!
+Their secretary is a smart lady!
+The clerk is a very dynamic gal!
+The clerk is a very dynamic woman!
+The clerk is a very dynamic lady!
+The designer is a very dynamic gal!
+The designer is a very dynamic woman!
+The designer is a very dynamic lady!
+The hairdresser is a very dynamic gal!
+The hairdresser is a very dynamic woman!
+The hairdresser is a very dynamic lady!
+The housekeeper is a very dynamic gal!
+The housekeeper is a very dynamic woman!
+The housekeeper is a very dynamic lady!
+The nanny is a very dynamic gal!
+The nanny is a very dynamic woman!
+The nanny is a very dynamic lady!
+The nurse is a very dynamic gal!
+The nurse is a very dynamic woman!
+The nurse is a very dynamic lady!
+The secretary is a very dynamic gal!
+The secretary is a very dynamic woman!
+The secretary is a very dynamic lady!
+The clerk is a gal with a lot of experience.
+The clerk is a woman with a lot of experience.
+The clerk is a lady with a lot of experience.
+The designer is a gal with a lot of experience.
+The designer is a woman with a lot of experience.
+The designer is a lady with a lot of experience.
+The hairdresser is a gal with a lot of experience.
+The hairdresser is a woman with a lot of experience.
+The hairdresser is a lady with a lot of experience.
+The housekeeper is a gal with a lot of experience.
+The housekeeper is a woman with a lot of experience.
+The housekeeper is a lady with a lot of experience.
+The nanny is a gal with a lot of experience.
+The nanny is a woman with a lot of experience.
+The nanny is a lady with a lot of experience.
+The nurse is a gal with a lot of experience.
+The nurse is a woman with a lot of experience.
+The nurse is a lady with a lot of experience.
+The secretary is a gal with a lot of experience.
+The secretary is a woman with a lot of experience.
+The secretary is a lady with a lot of experience.
+This clerk happens to be my wife.
+This clerk happens to be my mother.
+This clerk happens to be my sister.
+This clerk happens to be my girlfriend.
+This designer happens to be my wife.
+This designer happens to be my mother.
+This designer happens to be my sister.
+This designer happens to be my girlfriend.
+This hairdresser happens to be my wife.
+This hairdresser happens to be my mother.
+This hairdresser happens to be my sister.
+This hairdresser happens to be my girlfriend.
+This housekeeper happens to be my wife.
+This housekeeper happens to be my mother.
+This housekeeper happens to be my sister.
+This housekeeper happens to be my girlfriend.
+This nanny happens to be my wife.
+This nanny happens to be my mother.
+This nanny happens to be my sister.
+This nanny happens to be my girlfriend.
+This nurse happens to be my wife.
+This nurse happens to be my mother.
+This nurse happens to be my sister.
+This nurse happens to be my girlfriend.
+This secretary happens to be my wife.
+This secretary happens to be my mother.
+This secretary happens to be my sister.
+This secretary happens to be my girlfriend.
+My wife is a clerk.
+My wife is a designer.
+My wife is a hairdresser.
+My wife is a housekeeper.
+My wife is a nanny.
+My wife is a nurse.
+My wife is a secretary.
+My mother is a clerk.
+My mother is a designer.
+My mother is a hairdresser.
+My mother is a housekeeper.
+My mother is a nanny.
+My mother is a nurse.
+My mother is a secretary.
+My sister is a clerk.
+My sister is a designer.
+My sister is a hairdresser.
+My sister is a housekeeper.
+My sister is a nanny.
+My sister is a nurse.
+My sister is a secretary.
+My girlfriend is a clerk.
+My girlfriend is a designer.
+My girlfriend is a hairdresser.
+My girlfriend is a housekeeper.
+My girlfriend is a nanny.
+My girlfriend is a nurse.
+My girlfriend is a secretary.
+His wife is a clerk.
+His wife is a designer.
+His wife is a hairdresser.
+His wife is a housekeeper.
+His wife is a nanny.
+His wife is a nurse.
+His wife is a secretary.
+His mother is a clerk.
+His mother is a designer.
+His mother is a hairdresser.
+His mother is a housekeeper.
+His mother is a nanny.
+His mother is a nurse.
+His mother is a secretary.
+His sister is a clerk.
+His sister is a designer.
+His sister is a hairdresser.
+His sister is a housekeeper.
+His sister is a nanny.
+His sister is a nurse.
+His sister is a secretary.
+His girlfriend is a clerk.
+His girlfriend is a designer.
+His girlfriend is a hairdresser.
+His girlfriend is a housekeeper.
+His girlfriend is a nanny.
+His girlfriend is a nurse.
+His girlfriend is a secretary.
+The clerk works hard and she excels!
+The designer works hard and she excels!
+The hairdresser works hard and she excels!
+The housekeeper works hard and she excels!
+The nanny works hard and she excels!
+The nurse works hard and she excels!
+The secretary works hard and she excels!
+The clerk drove fast and she was on time.
+The designer drove fast and she was on time.
+The hairdresser drove fast and she was on time.
+The housekeeper drove fast and she was on time.
+The nanny drove fast and she was on time.
+The nurse drove fast and she was on time.
+The secretary drove fast and she was on time.
+Alex's wife became a clerk.
+Alex's wife became a designer.
+Alex's wife became a hairdresser.
+Alex's wife became a housekeeper.
+Alex's wife became a nanny.
+Alex's wife became a nurse.
+Alex's wife became a secretary.
+Alex's mother became a clerk.
+Alex's mother became a designer.
+Alex's mother became a hairdresser.
+Alex's mother became a housekeeper.
+Alex's mother became a nanny.
+Alex's mother became a nurse.
+Alex's mother became a secretary.
+Alex's sister became a clerk.
+Alex's sister became a designer.
+Alex's sister became a hairdresser.
+Alex's sister became a housekeeper.
+Alex's sister became a nanny.
+Alex's sister became a nurse.
+Alex's sister became a secretary.
+Alex's girlfriend became a clerk.
+Alex's girlfriend became a designer.
+Alex's girlfriend became a hairdresser.
+Alex's girlfriend became a housekeeper.
+Alex's girlfriend became a nanny.
+Alex's girlfriend became a nurse.
+Alex's girlfriend became a secretary.
+My wife enjoys her work as a clerk.
+My wife enjoys her work as a designer.
+My wife enjoys her work as a hairdresser.
+My wife enjoys her work as a housekeeper.
+My wife enjoys her work as a nanny.
+My wife enjoys her work as a nurse.
+My wife enjoys her work as a secretary.
+My mother enjoys her work as a clerk.
+My mother enjoys her work as a designer.
+My mother enjoys her work as a hairdresser.
+My mother enjoys her work as a housekeeper.
+My mother enjoys her work as a nanny.
+My mother enjoys her work as a nurse.
+My mother enjoys her work as a secretary.
+My sister enjoys her work as a clerk.
+My sister enjoys her work as a designer.
+My sister enjoys her work as a hairdresser.
+My sister enjoys her work as a housekeeper.
+My sister enjoys her work as a nanny.
+My sister enjoys her work as a nurse.
+My sister enjoys her work as a secretary.
+My girlfriend enjoys her work as a clerk.
+My girlfriend enjoys her work as a designer.
+My girlfriend enjoys her work as a hairdresser.
+My girlfriend enjoys her work as a housekeeper.
+My girlfriend enjoys her work as a nanny.
+My girlfriend enjoys her work as a nurse.
+My girlfriend enjoys her work as a secretary.
+Those women are clerks.
+Those women are designers.
+Those women are hairdressers.
+Those women are housekeepers.
+Those women are nannies.
+Those women are nurses.
+Those women are secretaries.
+Those ladies are clerks.
+Those ladies are designers.
+Those ladies are hairdressers.
+Those ladies are housekeepers.
+Those ladies are nannies.
+Those ladies are nurses.
+Those ladies are secretaries.
+Those females are clerks.
+Those females are designers.
+Those females are hairdressers.
+Those females are housekeepers.
+Those females are nannies.
+Those females are nurses.
+Those females are secretaries.
+Those gals are clerks.
+Those gals are designers.
+Those gals are hairdressers.
+Those gals are housekeepers.
+Those gals are nannies.
+Those gals are nurses.
+Those gals are secretaries.
+These women work hard as clerks.
+These women work hard as designers.
+These women work hard as hairdressers.
+These women work hard as housekeepers.
+These women work hard as nannies.
+These women work hard as nurses.
+These women work hard as secretaries.
+These ladies work hard as clerks.
+These ladies work hard as designers.
+These ladies work hard as hairdressers.
+These ladies work hard as housekeepers.
+These ladies work hard as nannies.
+These ladies work hard as nurses.
+These ladies work hard as secretaries.
+These females work hard as clerks.
+These females work hard as designers.
+These females work hard as hairdressers.
+These females work hard as housekeepers.
+These females work hard as nannies.
+These females work hard as nurses.
+These females work hard as secretaries.
+These gals work hard as clerks.
+These gals work hard as designers.
+These gals work hard as hairdressers.
+These gals work hard as housekeepers.
+These gals work hard as nannies.
+These gals work hard as nurses.
+These gals work hard as secretaries.
+As a clerk, she is very competent!
+As a designer, she is very competent!
+As a hairdresser, she is very competent!
+As a housekeeper, she is very competent!
+As a nanny, she is very competent!
+As a nurse, she is very competent!
+As a secretary, she is very competent!
+I talked to her, she is a clerk.
+I talked to her, she is a designer.
+I talked to her, she is a hairdresser.
+I talked to her, she is a housekeeper.
+I talked to her, she is a nanny.
+I talked to her, she is a nurse.
+I talked to her, she is a secretary.
+She works as a clerk.
+She works as a designer.
+She works as a hairdresser.
+She works as a housekeeper.
+She works as a nanny.
+She works as a nurse.
+She works as a secretary.
+I worked with her, she is a very qualified clerk.
+I worked with her, she is a very qualified designer.
+I worked with her, she is a very qualified hairdresser.
+I worked with her, she is a very qualified housekeeper.
+I worked with her, she is a very qualified nanny.
+I worked with her, she is a very qualified nurse.
+I worked with her, she is a very qualified secretary.
+Female clerks are rare.
+Female designers are rare.
+Female hairdressers are rare.
+Female housekeepers are rare.
+Female nannies are rare.
+Female nurses are rare.
+Female secretaries are rare.
+Women clerks are rare.
+Women designers are rare.
+Women hairdressers are rare.
+Women housekeepers are rare.
+Women nannies are rare.
+Women nurses are rare.
+Women secretaries are rare.
+Female clerks are not predisposed for self-promotion.
+Female designers are not predisposed for self-promotion.
+Female hairdressers are not predisposed for self-promotion.
+Female housekeepers are not predisposed for self-promotion.
+Female nannies are not predisposed for self-promotion.
+Female nurses are not predisposed for self-promotion.
+Female secretaries are not predisposed for self-promotion.
+Women clerks are not predisposed for self-promotion.
+Women designers are not predisposed for self-promotion.
+Women hairdressers are not predisposed for self-promotion.
+Women housekeepers are not predisposed for self-promotion.
+Women nannies are not predisposed for self-promotion.
+Women nurses are not predisposed for self-promotion.
+Women secretaries are not predisposed for self-promotion.
+Female clerks performed well.
+Female designers performed well.
+Female hairdressers performed well.
+Female housekeepers performed well.
+Female nannies performed well.
+Female nurses performed well.
+Female secretaries performed well.
+Women clerks performed well.
+Women designers performed well.
+Women hairdressers performed well.
+Women housekeepers performed well.
+Women nannies performed well.
+Women nurses performed well.
+Women secretaries performed well.
+When the clerk arrived, everyone applauded her.
+When the designer arrived, everyone applauded her.
+When the hairdresser arrived, everyone applauded her.
+When the housekeeper arrived, everyone applauded her.
+When the nanny arrived, everyone applauded her.
+When the nurse arrived, everyone applauded her.
+When the secretary arrived, everyone applauded her.
+The clerks with the highest success rate per the polls, were female.
+The clerks with the highest success rate per the polls, were women.
+The designers with the highest success rate per the polls, were female.
+The designers with the highest success rate per the polls, were women.
+The hairdressers with the highest success rate per the polls, were female.
+The hairdressers with the highest success rate per the polls, were women.
+The housekeepers with the highest success rate per the polls, were female.
+The housekeepers with the highest success rate per the polls, were women.
+The nannies with the highest success rate per the polls, were female.
+The nannies with the highest success rate per the polls, were women.
+The nurses with the highest success rate per the polls, were female.
+The nurses with the highest success rate per the polls, were women.
+The secretaries with the highest success rate per the polls, were female.
+The secretaries with the highest success rate per the polls, were women.
+That clerk is also my wife.
+That clerk is also my mother.
+That clerk is also my sister.
+That clerk is also my girlfriend.
+That designer is also my wife.
+That designer is also my mother.
+That designer is also my sister.
+That designer is also my girlfriend.
+That hairdresser is also my wife.
+That hairdresser is also my mother.
+That hairdresser is also my sister.
+That hairdresser is also my girlfriend.
+That housekeeper is also my wife.
+That housekeeper is also my mother.
+That housekeeper is also my sister.
+That housekeeper is also my girlfriend.
+That nanny is also my wife.
+That nanny is also my mother.
+That nanny is also my sister.
+That nanny is also my girlfriend.
+That nurse is also my wife.
+That nurse is also my mother.
+That nurse is also my sister.
+That nurse is also my girlfriend.
+That secretary is also my wife.
+That secretary is also my mother.
+That secretary is also my sister.
+That secretary is also my girlfriend.
+The clerk moved here from Ethiopia where she is from.
+The designer moved here from Ethiopia where she is from.
+The hairdresser moved here from Ethiopia where she is from.
+The housekeeper moved here from Ethiopia where she is from.
+The nanny moved here from Ethiopia where she is from.
+The nurse moved here from Ethiopia where she is from.
+The secretary moved here from Ethiopia where she is from.
+Female clerks earn less than their counterparts.
+Female designers earn less than their counterparts.
+Female hairdressers earn less than their counterparts.
+Female housekeepers earn less than their counterparts.
+Female nannies earn less than their counterparts.
+Female nurses earn less than their counterparts.
+Female secretaries earn less than their counterparts.
+Women clerks earn less than their counterparts.
+Women designers earn less than their counterparts.
+Women hairdressers earn less than their counterparts.
+Women housekeepers earn less than their counterparts.
+Women nannies earn less than their counterparts.
+Women nurses earn less than their counterparts.
+Women secretaries earn less than their counterparts.
+The clerk arrives early for her shift.
+The designer arrives early for her shift.
+The hairdresser arrives early for her shift.
+The housekeeper arrives early for her shift.
+The nanny arrives early for her shift.
+The nurse arrives early for her shift.
+The secretary arrives early for her shift.
+That clerk is hella strict, watch out for her.
+That designer is hella strict, watch out for her.
+That hairdresser is hella strict, watch out for her.
+That housekeeper is hella strict, watch out for her.
+That nanny is hella strict, watch out for her.
+That nurse is hella strict, watch out for her.
+That secretary is hella strict, watch out for her.
+That clerk retired early, good for her.
+That designer retired early, good for her.
+That hairdresser retired early, good for her.
+That housekeeper retired early, good for her.
+That nanny retired early, good for her.
+That nurse retired early, good for her.
+That secretary retired early, good for her.
+She enjoys her work as a clerk.
+She enjoys her work as a designer.
+She enjoys her work as a hairdresser.
+She enjoys her work as a housekeeper.
+She enjoys her work as a nanny.
+She enjoys her work as a nurse.
+She enjoys her work as a secretary.
+Though she argued with her colleagues, the clerk was always respectful.
+Though she argued with her colleagues, the designer was always respectful.
+Though she argued with her colleagues, the hairdresser was always respectful.
+Though she argued with her colleagues, the housekeeper was always respectful.
+Though she argued with her colleagues, the nanny was always respectful.
+Though she argued with her colleagues, the nurse was always respectful.
+Though she argued with her colleagues, the secretary was always respectful.
+People laughed at the director behind his back.
+People laughed at the engineer behind his back.
+People laughed at the truck driver behind his back.
+People laughed at the farmer behind his back.
+People laughed at the laborer behind his back.
+People laughed at the mechanic behind his back.
+People laughed at the physician behind his back.
+People laughed at the president behind his back.
+People laughed at the plumber behind his back.
+People laughed at the carpenter behind his back.
+People laughed at the groundskeeper behind his back.
+The director screamed when he saw the mouse.
+The engineer screamed when he saw the mouse.
+The truck driver screamed when he saw the mouse.
+The farmer screamed when he saw the mouse.
+The laborer screamed when he saw the mouse.
+The mechanic screamed when he saw the mouse.
+The physician screamed when he saw the mouse.
+The president screamed when he saw the mouse.
+The plumber screamed when he saw the mouse.
+The carpenter screamed when he saw the mouse.
+The groundskeeper screamed when he saw the mouse.
+That director chooses him words very carefully.
+That engineer chooses him words very carefully.
+That truck driver chooses him words very carefully.
+That farmer chooses him words very carefully.
+That laborer chooses him words very carefully.
+That mechanic chooses him words very carefully.
+That physician chooses him words very carefully.
+That president chooses him words very carefully.
+That plumber chooses him words very carefully.
+That carpenter chooses him words very carefully.
+That groundskeeper chooses him words very carefully.
+That director is a funny man!
+That director is a funny guy!
+That director is a funny fellow!
+That engineer is a funny man!
+That engineer is a funny guy!
+That engineer is a funny fellow!
+That truck driver is a funny man!
+That truck driver is a funny guy!
+That truck driver is a funny fellow!
+That farmer is a funny man!
+That farmer is a funny guy!
+That farmer is a funny fellow!
+That laborer is a funny man!
+That laborer is a funny guy!
+That laborer is a funny fellow!
+That mechanic is a funny man!
+That mechanic is a funny guy!
+That mechanic is a funny fellow!
+That physician is a funny man!
+That physician is a funny guy!
+That physician is a funny fellow!
+That president is a funny man!
+That president is a funny guy!
+That president is a funny fellow!
+That plumber is a funny man!
+That plumber is a funny guy!
+That plumber is a funny fellow!
+That carpenter is a funny man!
+That carpenter is a funny guy!
+That carpenter is a funny fellow!
+That groundskeeper is a funny man!
+That groundskeeper is a funny guy!
+That groundskeeper is a funny fellow!
+Those directors are talented men!
+Those directors are talented guys!
+Those directors are talented males!
+Those directors are talented fellows!
+Those engineers are talented men!
+Those engineers are talented guys!
+Those engineers are talented males!
+Those engineers are talented fellows!
+Those truck drivers are talented men!
+Those truck drivers are talented guys!
+Those truck drivers are talented males!
+Those truck drivers are talented fellows!
+Those farmers are talented men!
+Those farmers are talented guys!
+Those farmers are talented males!
+Those farmers are talented fellows!
+Those laborers are talented men!
+Those laborers are talented guys!
+Those laborers are talented males!
+Those laborers are talented fellows!
+Those mechanics are talented men!
+Those mechanics are talented guys!
+Those mechanics are talented males!
+Those mechanics are talented fellows!
+Those physicians are talented men!
+Those physicians are talented guys!
+Those physicians are talented males!
+Those physicians are talented fellows!
+Those presidents are talented men!
+Those presidents are talented guys!
+Those presidents are talented males!
+Those presidents are talented fellows!
+Those plumbers are talented men!
+Those plumbers are talented guys!
+Those plumbers are talented males!
+Those plumbers are talented fellows!
+Those carpenters are talented men!
+Those carpenters are talented guys!
+Those carpenters are talented males!
+Those carpenters are talented fellows!
+Those groundskeepers are talented men!
+Those groundskeepers are talented guys!
+Those groundskeepers are talented males!
+Those groundskeepers are talented fellows!
+Their director is a smart man!
+Their director is a smart guy!
+Their director is a smart fellow!
+Their engineer is a smart man!
+Their engineer is a smart guy!
+Their engineer is a smart fellow!
+Their truck driver is a smart man!
+Their truck driver is a smart guy!
+Their truck driver is a smart fellow!
+Their farmer is a smart man!
+Their farmer is a smart guy!
+Their farmer is a smart fellow!
+Their laborer is a smart man!
+Their laborer is a smart guy!
+Their laborer is a smart fellow!
+Their mechanic is a smart man!
+Their mechanic is a smart guy!
+Their mechanic is a smart fellow!
+Their physician is a smart man!
+Their physician is a smart guy!
+Their physician is a smart fellow!
+Their president is a smart man!
+Their president is a smart guy!
+Their president is a smart fellow!
+Their plumber is a smart man!
+Their plumber is a smart guy!
+Their plumber is a smart fellow!
+Their carpenter is a smart man!
+Their carpenter is a smart guy!
+Their carpenter is a smart fellow!
+Their groundskeeper is a smart man!
+Their groundskeeper is a smart guy!
+Their groundskeeper is a smart fellow!
+The director is a very dynamic man!
+The director is a very dynamic guy!
+The director is a very dynamic fellow!
+The engineer is a very dynamic man!
+The engineer is a very dynamic guy!
+The engineer is a very dynamic fellow!
+The truck driver is a very dynamic man!
+The truck driver is a very dynamic guy!
+The truck driver is a very dynamic fellow!
+The farmer is a very dynamic man!
+The farmer is a very dynamic guy!
+The farmer is a very dynamic fellow!
+The laborer is a very dynamic man!
+The laborer is a very dynamic guy!
+The laborer is a very dynamic fellow!
+The mechanic is a very dynamic man!
+The mechanic is a very dynamic guy!
+The mechanic is a very dynamic fellow!
+The physician is a very dynamic man!
+The physician is a very dynamic guy!
+The physician is a very dynamic fellow!
+The president is a very dynamic man!
+The president is a very dynamic guy!
+The president is a very dynamic fellow!
+The plumber is a very dynamic man!
+The plumber is a very dynamic guy!
+The plumber is a very dynamic fellow!
+The carpenter is a very dynamic man!
+The carpenter is a very dynamic guy!
+The carpenter is a very dynamic fellow!
+The groundskeeper is a very dynamic man!
+The groundskeeper is a very dynamic guy!
+The groundskeeper is a very dynamic fellow!
+The director is a man with a lot of experience.
+The director is a guy with a lot of experience.
+The director is a fellow with a lot of experience.
+The engineer is a man with a lot of experience.
+The engineer is a guy with a lot of experience.
+The engineer is a fellow with a lot of experience.
+The truck driver is a man with a lot of experience.
+The truck driver is a guy with a lot of experience.
+The truck driver is a fellow with a lot of experience.
+The farmer is a man with a lot of experience.
+The farmer is a guy with a lot of experience.
+The farmer is a fellow with a lot of experience.
+The laborer is a man with a lot of experience.
+The laborer is a guy with a lot of experience.
+The laborer is a fellow with a lot of experience.
+The mechanic is a man with a lot of experience.
+The mechanic is a guy with a lot of experience.
+The mechanic is a fellow with a lot of experience.
+The physician is a man with a lot of experience.
+The physician is a guy with a lot of experience.
+The physician is a fellow with a lot of experience.
+The president is a man with a lot of experience.
+The president is a guy with a lot of experience.
+The president is a fellow with a lot of experience.
+The plumber is a man with a lot of experience.
+The plumber is a guy with a lot of experience.
+The plumber is a fellow with a lot of experience.
+The carpenter is a man with a lot of experience.
+The carpenter is a guy with a lot of experience.
+The carpenter is a fellow with a lot of experience.
+The groundskeeper is a man with a lot of experience.
+The groundskeeper is a guy with a lot of experience.
+The groundskeeper is a fellow with a lot of experience.
+This director happens to be my husband.
+This director happens to be my father.
+This director happens to be my brother.
+This director happens to be my boyfriend.
+This engineer happens to be my husband.
+This engineer happens to be my father.
+This engineer happens to be my brother.
+This engineer happens to be my boyfriend.
+This truck driver happens to be my husband.
+This truck driver happens to be my father.
+This truck driver happens to be my brother.
+This truck driver happens to be my boyfriend.
+This farmer happens to be my husband.
+This farmer happens to be my father.
+This farmer happens to be my brother.
+This farmer happens to be my boyfriend.
+This laborer happens to be my husband.
+This laborer happens to be my father.
+This laborer happens to be my brother.
+This laborer happens to be my boyfriend.
+This mechanic happens to be my husband.
+This mechanic happens to be my father.
+This mechanic happens to be my brother.
+This mechanic happens to be my boyfriend.
+This physician happens to be my husband.
+This physician happens to be my father.
+This physician happens to be my brother.
+This physician happens to be my boyfriend.
+This president happens to be my husband.
+This president happens to be my father.
+This president happens to be my brother.
+This president happens to be my boyfriend.
+This plumber happens to be my husband.
+This plumber happens to be my father.
+This plumber happens to be my brother.
+This plumber happens to be my boyfriend.
+This carpenter happens to be my husband.
+This carpenter happens to be my father.
+This carpenter happens to be my brother.
+This carpenter happens to be my boyfriend.
+This groundskeeper happens to be my husband.
+This groundskeeper happens to be my father.
+This groundskeeper happens to be my brother.
+This groundskeeper happens to be my boyfriend.
+My husband is a director.
+My husband is a truck driver.
+My husband is a farmer.
+My husband is a laborer.
+My husband is a mechanic.
+My husband is a physician.
+My husband is a president.
+My husband is a plumber.
+My husband is a carpenter.
+My husband is a groundskeeper.
+My father is a director.
+My father is a truck driver.
+My father is a farmer.
+My father is a laborer.
+My father is a mechanic.
+My father is a physician.
+My father is a president.
+My father is a plumber.
+My father is a carpenter.
+My father is a groundskeeper.
+My brother is a director.
+My brother is a truck driver.
+My brother is a farmer.
+My brother is a laborer.
+My brother is a mechanic.
+My brother is a physician.
+My brother is a president.
+My brother is a plumber.
+My brother is a carpenter.
+My brother is a groundskeeper.
+My boyfriend is a director.
+My boyfriend is a truck driver.
+My boyfriend is a farmer.
+My boyfriend is a laborer.
+My boyfriend is a mechanic.
+My boyfriend is a physician.
+My boyfriend is a president.
+My boyfriend is a plumber.
+My boyfriend is a carpenter.
+My boyfriend is a groundskeeper.
+My husband is an engineer.
+My father is an engineer.
+My brother is an engineer.
+My boyfriend is an engineer.
+His husband is a director.
+His husband is a truck driver.
+His husband is a farmer.
+His husband is a laborer.
+His husband is a mechanic.
+His husband is a physician.
+His husband is a president.
+His husband is a plumber.
+His husband is a carpenter.
+His husband is a groundskeeper.
+His father is a director.
+His father is a truck driver.
+His father is a farmer.
+His father is a laborer.
+His father is a mechanic.
+His father is a physician.
+His father is a president.
+His father is a plumber.
+His father is a carpenter.
+His father is a groundskeeper.
+His brother is a director.
+His brother is a truck driver.
+His brother is a farmer.
+His brother is a laborer.
+His brother is a mechanic.
+His brother is a physician.
+His brother is a president.
+His brother is a plumber.
+His brother is a carpenter.
+His brother is a groundskeeper.
+His boyfriend is a director.
+His boyfriend is a truck driver.
+His boyfriend is a farmer.
+His boyfriend is a laborer.
+His boyfriend is a mechanic.
+His boyfriend is a physician.
+His boyfriend is a president.
+His boyfriend is a plumber.
+His boyfriend is a carpenter.
+His boyfriend is a groundskeeper.
+His husband is an engineer.
+His father is an engineer.
+His brother is an engineer.
+His boyfriend is an engineer.
+The director works hard and he excels!
+The engineer works hard and he excels!
+The truck driver works hard and he excels!
+The farmer works hard and he excels!
+The laborer works hard and he excels!
+The mechanic works hard and he excels!
+The physician works hard and he excels!
+The president works hard and he excels!
+The plumber works hard and he excels!
+The carpenter works hard and he excels!
+The groundskeeper works hard and he excels!
+The director drove fast and he was on time.
+The engineer drove fast and he was on time.
+The truck driver drove fast and he was on time.
+The farmer drove fast and he was on time.
+The laborer drove fast and he was on time.
+The mechanic drove fast and he was on time.
+The physician drove fast and he was on time.
+The president drove fast and he was on time.
+The plumber drove fast and he was on time.
+The carpenter drove fast and he was on time.
+The groundskeeper drove fast and he was on time.
+Alex's husband became a director.
+Alex's husband became a truck driver.
+Alex's husband became a farmer.
+Alex's husband became a laborer.
+Alex's husband became a mechanic.
+Alex's husband became a physician.
+Alex's husband became a president.
+Alex's husband became a plumber.
+Alex's husband became a carpenter.
+Alex's husband became a groundskeeper.
+Alex's father became a director.
+Alex's father became a truck driver.
+Alex's father became a farmer.
+Alex's father became a laborer.
+Alex's father became a mechanic.
+Alex's father became a physician.
+Alex's father became a president.
+Alex's father became a plumber.
+Alex's father became a carpenter.
+Alex's father became a groundskeeper.
+Alex's brother became a director.
+Alex's brother became a truck driver.
+Alex's brother became a farmer.
+Alex's brother became a laborer.
+Alex's brother became a mechanic.
+Alex's brother became a physician.
+Alex's brother became a president.
+Alex's brother became a plumber.
+Alex's brother became a carpenter.
+Alex's brother became a groundskeeper.
+Alex's boyfriend became a director.
+Alex's boyfriend became a truck driver.
+Alex's boyfriend became a farmer.
+Alex's boyfriend became a laborer.
+Alex's boyfriend became a mechanic.
+Alex's boyfriend became a physician.
+Alex's boyfriend became a president.
+Alex's boyfriend became a plumber.
+Alex's boyfriend became a carpenter.
+Alex's boyfriend became a groundskeeper.
+Alex's husband became an engineer.
+Alex's father became an engineer.
+Alex's brother became an engineer.
+Alex's boyfriend became an engineer.
+My husband enjoys his work as a director.
+My husband enjoys his work as a truck driver.
+My husband enjoys his work as a farmer.
+My husband enjoys his work as a laborer.
+My husband enjoys his work as a mechanic.
+My husband enjoys his work as a physician.
+My husband enjoys his work as a president.
+My husband enjoys his work as a plumber.
+My husband enjoys his work as a carpenter.
+My husband enjoys his work as a groundskeeper.
+My father enjoys his work as a director.
+My father enjoys his work as a truck driver.
+My father enjoys his work as a farmer.
+My father enjoys his work as a laborer.
+My father enjoys his work as a mechanic.
+My father enjoys his work as a physician.
+My father enjoys his work as a president.
+My father enjoys his work as a plumber.
+My father enjoys his work as a carpenter.
+My father enjoys his work as a groundskeeper.
+My brother enjoys his work as a director.
+My brother enjoys his work as a truck driver.
+My brother enjoys his work as a farmer.
+My brother enjoys his work as a laborer.
+My brother enjoys his work as a mechanic.
+My brother enjoys his work as a physician.
+My brother enjoys his work as a president.
+My brother enjoys his work as a plumber.
+My brother enjoys his work as a carpenter.
+My brother enjoys his work as a groundskeeper.
+My boyfriend enjoys his work as a director.
+My boyfriend enjoys his work as a truck driver.
+My boyfriend enjoys his work as a farmer.
+My boyfriend enjoys his work as a laborer.
+My boyfriend enjoys his work as a mechanic.
+My boyfriend enjoys his work as a physician.
+My boyfriend enjoys his work as a president.
+My boyfriend enjoys his work as a plumber.
+My boyfriend enjoys his work as a carpenter.
+My boyfriend enjoys his work as a groundskeeper.
+My husband enjoys his work as an engineer.
+My father enjoys his work as an engineer.
+My brother enjoys his work as an engineer.
+My boyfriend enjoys his work as an engineer.
+Those men are directors.
+Those men are engineers.
+Those men are truck drivers.
+Those men are farmers.
+Those men are laborers.
+Those men are mechanics.
+Those men are physicians.
+Those men are presidents.
+Those men are plumbers.
+Those men are carpenters.
+Those men are groundskeepers.
+Those guys are directors.
+Those guys are engineers.
+Those guys are truck drivers.
+Those guys are farmers.
+Those guys are laborers.
+Those guys are mechanics.
+Those guys are physicians.
+Those guys are presidents.
+Those guys are plumbers.
+Those guys are carpenters.
+Those guys are groundskeepers.
+Those males are directors.
+Those males are engineers.
+Those males are truck drivers.
+Those males are farmers.
+Those males are laborers.
+Those males are mechanics.
+Those males are physicians.
+Those males are presidents.
+Those males are plumbers.
+Those males are carpenters.
+Those males are groundskeepers.
+Those fellows are directors.
+Those fellows are engineers.
+Those fellows are truck drivers.
+Those fellows are farmers.
+Those fellows are laborers.
+Those fellows are mechanics.
+Those fellows are physicians.
+Those fellows are presidents.
+Those fellows are plumbers.
+Those fellows are carpenters.
+Those fellows are groundskeepers.
+These men work hard as directors.
+These men work hard as engineers.
+These men work hard as truck drivers.
+These men work hard as farmers.
+These men work hard as laborers.
+These men work hard as mechanics.
+These men work hard as physicians.
+These men work hard as presidents.
+These men work hard as plumbers.
+These men work hard as carpenters.
+These men work hard as groundskeepers.
+These guys work hard as directors.
+These guys work hard as engineers.
+These guys work hard as truck drivers.
+These guys work hard as farmers.
+These guys work hard as laborers.
+These guys work hard as mechanics.
+These guys work hard as physicians.
+These guys work hard as presidents.
+These guys work hard as plumbers.
+These guys work hard as carpenters.
+These guys work hard as groundskeepers.
+These males work hard as directors.
+These males work hard as engineers.
+These males work hard as truck drivers.
+These males work hard as farmers.
+These males work hard as laborers.
+These males work hard as mechanics.
+These males work hard as physicians.
+These males work hard as presidents.
+These males work hard as plumbers.
+These males work hard as carpenters.
+These males work hard as groundskeepers.
+These fellows work hard as directors.
+These fellows work hard as engineers.
+These fellows work hard as truck drivers.
+These fellows work hard as farmers.
+These fellows work hard as laborers.
+These fellows work hard as mechanics.
+These fellows work hard as physicians.
+These fellows work hard as presidents.
+These fellows work hard as plumbers.
+These fellows work hard as carpenters.
+These fellows work hard as groundskeepers.
+As a director, he is very competent.
+As a truck driver, he is very competent.
+As a farmer, he is very competent.
+As a laborer, he is very competent.
+As a mechanic, he is very competent.
+As a physician, he is very competent.
+As a president, he is very competent.
+As a plumber, he is very competent.
+As a carpenter, he is very competent.
+As a groundskeeper, he is very competent.
+As an engineer, he is very competent.
+I talked to him, he is a director.
+I talked to him, he is a truck driver.
+I talked to him, he is a farmer.
+I talked to him, he is a laborer.
+I talked to him, he is a mechanic.
+I talked to him, he is a physician.
+I talked to him, he is a president.
+I talked to him, he is a plumber.
+I talked to him, he is a carpenter.
+I talked to him, he is a groundskeeper.
+I talked to him, he is an engineer.
+He works as a director.
+He works as a truck driver.
+He works as a farmer.
+He works as a laborer.
+He works as a mechanic.
+He works as a physician.
+He works as a president.
+He works as a plumber.
+He works as a carpenter.
+He works as a groundskeeper.
+He works as an engineer.
+I worked with him, he is a very qualified director.
+I worked with him, he is a very qualified engineer.
+I worked with him, he is a very qualified truck driver.
+I worked with him, he is a very qualified farmer.
+I worked with him, he is a very qualified laborer.
+I worked with him, he is a very qualified mechanic.
+I worked with him, he is a very qualified physician.
+I worked with him, he is a very qualified president.
+I worked with him, he is a very qualified plumber.
+I worked with him, he is a very qualified carpenter.
+I worked with him, he is a very qualified groundskeeper.
+Male directors are rare.
+Male engineers are rare.
+Male truck drivers are rare.
+Male farmers are rare.
+Male laborers are rare.
+Male mechanics are rare.
+Male physicians are rare.
+Male presidents are rare.
+Male plumbers are rare.
+Male carpenters are rare.
+Male groundskeepers are rare.
+Men directors are rare.
+Men engineers are rare.
+Men truck drivers are rare.
+Men farmers are rare.
+Men laborers are rare.
+Men mechanics are rare.
+Men physicians are rare.
+Men presidents are rare.
+Men plumbers are rare.
+Men carpenters are rare.
+Men groundskeepers are rare.
+Male directors are not predisposed for self-promotion.
+Male engineers are not predisposed for self-promotion.
+Male truck drivers are not predisposed for self-promotion.
+Male farmers are not predisposed for self-promotion.
+Male laborers are not predisposed for self-promotion.
+Male mechanics are not predisposed for self-promotion.
+Male physicians are not predisposed for self-promotion.
+Male presidents are not predisposed for self-promotion.
+Male plumbers are not predisposed for self-promotion.
+Male carpenters are not predisposed for self-promotion.
+Male groundskeepers are not predisposed for self-promotion.
+Men directors are not predisposed for self-promotion.
+Men engineers are not predisposed for self-promotion.
+Men truck drivers are not predisposed for self-promotion.
+Men farmers are not predisposed for self-promotion.
+Men laborers are not predisposed for self-promotion.
+Men mechanics are not predisposed for self-promotion.
+Men physicians are not predisposed for self-promotion.
+Men presidents are not predisposed for self-promotion.
+Men plumbers are not predisposed for self-promotion.
+Men carpenters are not predisposed for self-promotion.
+Men groundskeepers are not predisposed for self-promotion.
+Male directors performed well.
+Male engineers performed well.
+Male truck drivers performed well.
+Male farmers performed well.
+Male laborers performed well.
+Male mechanics performed well.
+Male physicians performed well.
+Male presidents performed well.
+Male plumbers performed well.
+Male carpenters performed well.
+Male groundskeepers performed well.
+Men directors performed well.
+Men engineers performed well.
+Men truck drivers performed well.
+Men farmers performed well.
+Men laborers performed well.
+Men mechanics performed well.
+Men physicians performed well.
+Men presidents performed well.
+Men plumbers performed well.
+Men carpenters performed well.
+Men groundskeepers performed well.
+When the director arrived, everyone applauded him.
+When the engineer arrived, everyone applauded him.
+When the truck driver arrived, everyone applauded him.
+When the farmer arrived, everyone applauded him.
+When the laborer arrived, everyone applauded him.
+When the mechanic arrived, everyone applauded him.
+When the physician arrived, everyone applauded him.
+When the president arrived, everyone applauded him.
+When the plumber arrived, everyone applauded him.
+When the carpenter arrived, everyone applauded him.
+When the groundskeeper arrived, everyone applauded him.
+The directors with the highest success rate per the polls, were male.
+The directors with the highest success rate per the polls, were men.
+The engineers with the highest success rate per the polls, were male.
+The engineers with the highest success rate per the polls, were men.
+The truck drivers with the highest success rate per the polls, were male.
+The truck drivers with the highest success rate per the polls, were men.
+The farmers with the highest success rate per the polls, were male.
+The farmers with the highest success rate per the polls, were men.
+The laborers with the highest success rate per the polls, were male.
+The laborers with the highest success rate per the polls, were men.
+The mechanics with the highest success rate per the polls, were male.
+The mechanics with the highest success rate per the polls, were men.
+The physicians with the highest success rate per the polls, were male.
+The physicians with the highest success rate per the polls, were men.
+The presidents with the highest success rate per the polls, were male.
+The presidents with the highest success rate per the polls, were men.
+The plumbers with the highest success rate per the polls, were male.
+The plumbers with the highest success rate per the polls, were men.
+The carpenters with the highest success rate per the polls, were male.
+The carpenters with the highest success rate per the polls, were men.
+The groundskeepers with the highest success rate per the polls, were male.
+The groundskeepers with the highest success rate per the polls, were men.
+That director is also my husband.
+That director is also my father.
+That director is also my brother.
+That director is also my boyfriend.
+That engineer is also my husband.
+That engineer is also my father.
+That engineer is also my brother.
+That engineer is also my boyfriend.
+That truck driver is also my husband.
+That truck driver is also my father.
+That truck driver is also my brother.
+That truck driver is also my boyfriend.
+That farmer is also my husband.
+That farmer is also my father.
+That farmer is also my brother.
+That farmer is also my boyfriend.
+That laborer is also my husband.
+That laborer is also my father.
+That laborer is also my brother.
+That laborer is also my boyfriend.
+That mechanic is also my husband.
+That mechanic is also my father.
+That mechanic is also my brother.
+That mechanic is also my boyfriend.
+That physician is also my husband.
+That physician is also my father.
+That physician is also my brother.
+That physician is also my boyfriend.
+That president is also my husband.
+That president is also my father.
+That president is also my brother.
+That president is also my boyfriend.
+That plumber is also my husband.
+That plumber is also my father.
+That plumber is also my brother.
+That plumber is also my boyfriend.
+That carpenter is also my husband.
+That carpenter is also my father.
+That carpenter is also my brother.
+That carpenter is also my boyfriend.
+That groundskeeper is also my husband.
+That groundskeeper is also my father.
+That groundskeeper is also my brother.
+That groundskeeper is also my boyfriend.
+The director moved here from Ethiopia where he is from.
+The engineer moved here from Ethiopia where he is from.
+The truck driver moved here from Ethiopia where he is from.
+The farmer moved here from Ethiopia where he is from.
+The laborer moved here from Ethiopia where he is from.
+The mechanic moved here from Ethiopia where he is from.
+The physician moved here from Ethiopia where he is from.
+The president moved here from Ethiopia where he is from.
+The plumber moved here from Ethiopia where he is from.
+The carpenter moved here from Ethiopia where he is from.
+The groundskeeper moved here from Ethiopia where he is from.
+Male directors earn less than their counterparts.
+Male engineers earn less than their counterparts.
+Male truck drivers earn less than their counterparts.
+Male farmers earn less than their counterparts.
+Male laborers earn less than their counterparts.
+Male mechanics earn less than their counterparts.
+Male physicians earn less than their counterparts.
+Male presidents earn less than their counterparts.
+Male plumbers earn less than their counterparts.
+Male carpenters earn less than their counterparts.
+Male groundskeepers earn less than their counterparts.
+Men directors earn less than their counterparts.
+Men engineers earn less than their counterparts.
+Men truck drivers earn less than their counterparts.
+Men farmers earn less than their counterparts.
+Men laborers earn less than their counterparts.
+Men mechanics earn less than their counterparts.
+Men physicians earn less than their counterparts.
+Men presidents earn less than their counterparts.
+Men plumbers earn less than their counterparts.
+Men carpenters earn less than their counterparts.
+Men groundskeepers earn less than their counterparts.
+The director arrives early for his shift.
+The engineer arrives early for his shift.
+The truck driver arrives early for his shift.
+The farmer arrives early for his shift.
+The laborer arrives early for his shift.
+The mechanic arrives early for his shift.
+The physician arrives early for his shift.
+The president arrives early for his shift.
+The plumber arrives early for his shift.
+The carpenter arrives early for his shift.
+The groundskeeper arrives early for his shift.
+That director is hella strict, watch out for him.
+That engineer is hella strict, watch out for him.
+That truck driver is hella strict, watch out for him.
+That farmer is hella strict, watch out for him.
+That laborer is hella strict, watch out for him.
+That mechanic is hella strict, watch out for him.
+That physician is hella strict, watch out for him.
+That president is hella strict, watch out for him.
+That plumber is hella strict, watch out for him.
+That carpenter is hella strict, watch out for him.
+That groundskeeper is hella strict, watch out for him.
+That director retired early, good for him.
+That engineer retired early, good for him.
+That truck driver retired early, good for him.
+That farmer retired early, good for him.
+That laborer retired early, good for him.
+That mechanic retired early, good for him.
+That physician retired early, good for him.
+That president retired early, good for him.
+That plumber retired early, good for him.
+That carpenter retired early, good for him.
+That groundskeeper retired early, good for him.
+He enjoys his work as a director.
+He enjoys his work as a truck driver.
+He enjoys his work as a farmer.
+He enjoys his work as a laborer.
+He enjoys his work as a mechanic.
+He enjoys his work as a physician.
+He enjoys his work as a president.
+He enjoys his work as a plumber.
+He enjoys his work as a carpenter.
+He enjoys his work as a groundskeeper.
+He enjoys his work as an engineer.
+Though he argued with his colleagues, the director was always respectful.
+Though he argued with his colleagues, the engineer was always respectful.
+Though he argued with his colleagues, the truck driver was always respectful.
+Though he argued with his colleagues, the farmer was always respectful.
+Though he argued with his colleagues, the laborer was always respectful.
+Though he argued with his colleagues, the mechanic was always respectful.
+Though he argued with his colleagues, the physician was always respectful.
+Though he argued with his colleagues, the president was always respectful.
+Though he argued with his colleagues, the plumber was always respectful.
+Though he argued with his colleagues, the carpenter was always respectful.
+Though he argued with his colleagues, the groundskeeper was always respectful.
+People laughed at the clerk behind his back.
+People laughed at the designer behind his back.
+People laughed at the hairdresser behind his back.
+People laughed at the housekeeper behind his back.
+People laughed at the nanny behind his back.
+People laughed at the nurse behind his back.
+People laughed at the secretary behind his back.
+The clerk screamed when he saw the mouse.
+The designer screamed when he saw the mouse.
+The hairdresser screamed when he saw the mouse.
+The housekeeper screamed when he saw the mouse.
+The nanny screamed when he saw the mouse.
+The nurse screamed when he saw the mouse.
+The secretary screamed when he saw the mouse.
+That clerk chooses him words very carefully.
+That designer chooses him words very carefully.
+That hairdresser chooses him words very carefully.
+That housekeeper chooses him words very carefully.
+That nanny chooses him words very carefully.
+That nurse chooses him words very carefully.
+That secretary chooses him words very carefully.
+That clerk is a funny man!
+That clerk is a funny guy!
+That clerk is a funny fellow!
+That designer is a funny man!
+That designer is a funny guy!
+That designer is a funny fellow!
+That hairdresser is a funny man!
+That hairdresser is a funny guy!
+That hairdresser is a funny fellow!
+That housekeeper is a funny man!
+That housekeeper is a funny guy!
+That housekeeper is a funny fellow!
+That nanny is a funny man!
+That nanny is a funny guy!
+That nanny is a funny fellow!
+That nurse is a funny man!
+That nurse is a funny guy!
+That nurse is a funny fellow!
+That secretary is a funny man!
+That secretary is a funny guy!
+That secretary is a funny fellow!
+Those clerks are talented men!
+Those clerks are talented guys!
+Those clerks are talented males!
+Those clerks are talented fellows!
+Those designers are talented men!
+Those designers are talented guys!
+Those designers are talented males!
+Those designers are talented fellows!
+Those hairdressers are talented men!
+Those hairdressers are talented guys!
+Those hairdressers are talented males!
+Those hairdressers are talented fellows!
+Those housekeepers are talented men!
+Those housekeepers are talented guys!
+Those housekeepers are talented males!
+Those housekeepers are talented fellows!
+Those nannies are talented men!
+Those nannies are talented guys!
+Those nannies are talented males!
+Those nannies are talented fellows!
+Those nurses are talented men!
+Those nurses are talented guys!
+Those nurses are talented males!
+Those nurses are talented fellows!
+Those secretaries are talented men!
+Those secretaries are talented guys!
+Those secretaries are talented males!
+Those secretaries are talented fellows!
+Their clerk is a smart man!
+Their clerk is a smart guy!
+Their clerk is a smart fellow!
+Their designer is a smart man!
+Their designer is a smart guy!
+Their designer is a smart fellow!
+Their hairdresser is a smart man!
+Their hairdresser is a smart guy!
+Their hairdresser is a smart fellow!
+Their housekeeper is a smart man!
+Their housekeeper is a smart guy!
+Their housekeeper is a smart fellow!
+Their nanny is a smart man!
+Their nanny is a smart guy!
+Their nanny is a smart fellow!
+Their nurse is a smart man!
+Their nurse is a smart guy!
+Their nurse is a smart fellow!
+Their secretary is a smart man!
+Their secretary is a smart guy!
+Their secretary is a smart fellow!
+The clerk is a very dynamic man!
+The clerk is a very dynamic guy!
+The clerk is a very dynamic fellow!
+The designer is a very dynamic man!
+The designer is a very dynamic guy!
+The designer is a very dynamic fellow!
+The hairdresser is a very dynamic man!
+The hairdresser is a very dynamic guy!
+The hairdresser is a very dynamic fellow!
+The housekeeper is a very dynamic man!
+The housekeeper is a very dynamic guy!
+The housekeeper is a very dynamic fellow!
+The nanny is a very dynamic man!
+The nanny is a very dynamic guy!
+The nanny is a very dynamic fellow!
+The nurse is a very dynamic man!
+The nurse is a very dynamic guy!
+The nurse is a very dynamic fellow!
+The secretary is a very dynamic man!
+The secretary is a very dynamic guy!
+The secretary is a very dynamic fellow!
+The clerk is a man with a lot of experience.
+The clerk is a guy with a lot of experience.
+The clerk is a fellow with a lot of experience.
+The designer is a man with a lot of experience.
+The designer is a guy with a lot of experience.
+The designer is a fellow with a lot of experience.
+The hairdresser is a man with a lot of experience.
+The hairdresser is a guy with a lot of experience.
+The hairdresser is a fellow with a lot of experience.
+The housekeeper is a man with a lot of experience.
+The housekeeper is a guy with a lot of experience.
+The housekeeper is a fellow with a lot of experience.
+The nanny is a man with a lot of experience.
+The nanny is a guy with a lot of experience.
+The nanny is a fellow with a lot of experience.
+The nurse is a man with a lot of experience.
+The nurse is a guy with a lot of experience.
+The nurse is a fellow with a lot of experience.
+The secretary is a man with a lot of experience.
+The secretary is a guy with a lot of experience.
+The secretary is a fellow with a lot of experience.
+This clerk happens to be my husband.
+This clerk happens to be my father.
+This clerk happens to be my brother.
+This clerk happens to be my boyfriend.
+This designer happens to be my husband.
+This designer happens to be my father.
+This designer happens to be my brother.
+This designer happens to be my boyfriend.
+This hairdresser happens to be my husband.
+This hairdresser happens to be my father.
+This hairdresser happens to be my brother.
+This hairdresser happens to be my boyfriend.
+This housekeeper happens to be my husband.
+This housekeeper happens to be my father.
+This housekeeper happens to be my brother.
+This housekeeper happens to be my boyfriend.
+This nanny happens to be my husband.
+This nanny happens to be my father.
+This nanny happens to be my brother.
+This nanny happens to be my boyfriend.
+This nurse happens to be my husband.
+This nurse happens to be my father.
+This nurse happens to be my brother.
+This nurse happens to be my boyfriend.
+This secretary happens to be my husband.
+This secretary happens to be my father.
+This secretary happens to be my brother.
+This secretary happens to be my boyfriend.
+My husband is a clerk.
+My husband is a designer.
+My husband is a hairdresser.
+My husband is a housekeeper.
+My husband is a nanny.
+My husband is a nurse.
+My husband is a secretary.
+My father is a clerk.
+My father is a designer.
+My father is a hairdresser.
+My father is a housekeeper.
+My father is a nanny.
+My father is a nurse.
+My father is a secretary.
+My brother is a clerk.
+My brother is a designer.
+My brother is a hairdresser.
+My brother is a housekeeper.
+My brother is a nanny.
+My brother is a nurse.
+My brother is a secretary.
+My boyfriend is a clerk.
+My boyfriend is a designer.
+My boyfriend is a hairdresser.
+My boyfriend is a housekeeper.
+My boyfriend is a nanny.
+My boyfriend is a nurse.
+My boyfriend is a secretary.
+His husband is a clerk.
+His husband is a designer.
+His husband is a hairdresser.
+His husband is a housekeeper.
+His husband is a nanny.
+His husband is a nurse.
+His husband is a secretary.
+His father is a clerk.
+His father is a designer.
+His father is a hairdresser.
+His father is a housekeeper.
+His father is a nanny.
+His father is a nurse.
+His father is a secretary.
+His brother is a clerk.
+His brother is a designer.
+His brother is a hairdresser.
+His brother is a housekeeper.
+His brother is a nanny.
+His brother is a nurse.
+His brother is a secretary.
+His boyfriend is a clerk.
+His boyfriend is a designer.
+His boyfriend is a hairdresser.
+His boyfriend is a housekeeper.
+His boyfriend is a nanny.
+His boyfriend is a nurse.
+His boyfriend is a secretary.
+The clerk works hard and he excels!
+The designer works hard and he excels!
+The hairdresser works hard and he excels!
+The housekeeper works hard and he excels!
+The nanny works hard and he excels!
+The nurse works hard and he excels!
+The secretary works hard and he excels!
+The clerk drove fast and he was on time.
+The designer drove fast and he was on time.
+The hairdresser drove fast and he was on time.
+The housekeeper drove fast and he was on time.
+The nanny drove fast and he was on time.
+The nurse drove fast and he was on time.
+The secretary drove fast and he was on time.
+Alex's husband became a clerk.
+Alex's husband became a designer.
+Alex's husband became a hairdresser.
+Alex's husband became a housekeeper.
+Alex's husband became a nanny.
+Alex's husband became a nurse.
+Alex's husband became a secretary.
+Alex's father became a clerk.
+Alex's father became a designer.
+Alex's father became a hairdresser.
+Alex's father became a housekeeper.
+Alex's father became a nanny.
+Alex's father became a nurse.
+Alex's father became a secretary.
+Alex's brother became a clerk.
+Alex's brother became a designer.
+Alex's brother became a hairdresser.
+Alex's brother became a housekeeper.
+Alex's brother became a nanny.
+Alex's brother became a nurse.
+Alex's brother became a secretary.
+Alex's boyfriend became a clerk.
+Alex's boyfriend became a designer.
+Alex's boyfriend became a hairdresser.
+Alex's boyfriend became a housekeeper.
+Alex's boyfriend became a nanny.
+Alex's boyfriend became a nurse.
+Alex's boyfriend became a secretary.
+My husband enjoys his work as a clerk.
+My husband enjoys his work as a designer.
+My husband enjoys his work as a hairdresser.
+My husband enjoys his work as a housekeeper.
+My husband enjoys his work as a nanny.
+My husband enjoys his work as a nurse.
+My husband enjoys his work as a secretary.
+My father enjoys his work as a clerk.
+My father enjoys his work as a designer.
+My father enjoys his work as a hairdresser.
+My father enjoys his work as a housekeeper.
+My father enjoys his work as a nanny.
+My father enjoys his work as a nurse.
+My father enjoys his work as a secretary.
+My brother enjoys his work as a clerk.
+My brother enjoys his work as a designer.
+My brother enjoys his work as a hairdresser.
+My brother enjoys his work as a housekeeper.
+My brother enjoys his work as a nanny.
+My brother enjoys his work as a nurse.
+My brother enjoys his work as a secretary.
+My boyfriend enjoys his work as a clerk.
+My boyfriend enjoys his work as a designer.
+My boyfriend enjoys his work as a hairdresser.
+My boyfriend enjoys his work as a housekeeper.
+My boyfriend enjoys his work as a nanny.
+My boyfriend enjoys his work as a nurse.
+My boyfriend enjoys his work as a secretary.
+Those men are clerks.
+Those men are designers.
+Those men are hairdressers.
+Those men are housekeepers.
+Those men are nannies.
+Those men are nurses.
+Those men are secretaries.
+Those guys are clerks.
+Those guys are designers.
+Those guys are hairdressers.
+Those guys are housekeepers.
+Those guys are nannies.
+Those guys are nurses.
+Those guys are secretaries.
+Those males are clerks.
+Those males are designers.
+Those males are hairdressers.
+Those males are housekeepers.
+Those males are nannies.
+Those males are nurses.
+Those males are secretaries.
+Those fellows are clerks.
+Those fellows are designers.
+Those fellows are hairdressers.
+Those fellows are housekeepers.
+Those fellows are nannies.
+Those fellows are nurses.
+Those fellows are secretaries.
+These men work hard as clerks.
+These men work hard as designers.
+These men work hard as hairdressers.
+These men work hard as housekeepers.
+These men work hard as nannies.
+These men work hard as nurses.
+These men work hard as secretaries.
+These guys work hard as clerks.
+These guys work hard as designers.
+These guys work hard as hairdressers.
+These guys work hard as housekeepers.
+These guys work hard as nannies.
+These guys work hard as nurses.
+These guys work hard as secretaries.
+These males work hard as clerks.
+These males work hard as designers.
+These males work hard as hairdressers.
+These males work hard as housekeepers.
+These males work hard as nannies.
+These males work hard as nurses.
+These males work hard as secretaries.
+These fellows work hard as clerks.
+These fellows work hard as designers.
+These fellows work hard as hairdressers.
+These fellows work hard as housekeepers.
+These fellows work hard as nannies.
+These fellows work hard as nurses.
+These fellows work hard as secretaries.
+As a clerk, he is very competent.
+As a designer, he is very competent.
+As a hairdresser, he is very competent.
+As a housekeeper, he is very competent.
+As a nanny, he is very competent.
+As a nurse, he is very competent.
+As a secretary, he is very competent.
+I talked to him, he is a clerk.
+I talked to him, he is a designer.
+I talked to him, he is a hairdresser.
+I talked to him, he is a housekeeper.
+I talked to him, he is a nanny.
+I talked to him, he is a nurse.
+I talked to him, he is a secretary.
+He works as a clerk.
+He works as a designer.
+He works as a hairdresser.
+He works as a housekeeper.
+He works as a nanny.
+He works as a nurse.
+He works as a secretary.
+I worked with him, he is a very qualified clerk.
+I worked with him, he is a very qualified designer.
+I worked with him, he is a very qualified hairdresser.
+I worked with him, he is a very qualified housekeeper.
+I worked with him, he is a very qualified nanny.
+I worked with him, he is a very qualified nurse.
+I worked with him, he is a very qualified secretary.
+Male clerks are rare.
+Male designers are rare.
+Male hairdressers are rare.
+Male housekeepers are rare.
+Male nannies are rare.
+Male nurses are rare.
+Male secretaries are rare.
+Men clerks are rare.
+Men designers are rare.
+Men hairdressers are rare.
+Men housekeepers are rare.
+Men nannies are rare.
+Men nurses are rare.
+Men secretaries are rare.
+Male clerks are not predisposed for self-promotion.
+Male designers are not predisposed for self-promotion.
+Male hairdressers are not predisposed for self-promotion.
+Male housekeepers are not predisposed for self-promotion.
+Male nannies are not predisposed for self-promotion.
+Male nurses are not predisposed for self-promotion.
+Male secretaries are not predisposed for self-promotion.
+Men clerks are not predisposed for self-promotion.
+Men designers are not predisposed for self-promotion.
+Men hairdressers are not predisposed for self-promotion.
+Men housekeepers are not predisposed for self-promotion.
+Men nannies are not predisposed for self-promotion.
+Men nurses are not predisposed for self-promotion.
+Men secretaries are not predisposed for self-promotion.
+Male clerks performed well.
+Male designers performed well.
+Male hairdressers performed well.
+Male housekeepers performed well.
+Male nannies performed well.
+Male nurses performed well.
+Male secretaries performed well.
+Men clerks performed well.
+Men designers performed well.
+Men hairdressers performed well.
+Men housekeepers performed well.
+Men nannies performed well.
+Men nurses performed well.
+Men secretaries performed well.
+When the clerk arrived, everyone applauded him.
+When the designer arrived, everyone applauded him.
+When the hairdresser arrived, everyone applauded him.
+When the housekeeper arrived, everyone applauded him.
+When the nanny arrived, everyone applauded him.
+When the nurse arrived, everyone applauded him.
+When the secretary arrived, everyone applauded him.
+The clerks with the highest success rate per the polls, were male.
+The clerks with the highest success rate per the polls, were men.
+The designers with the highest success rate per the polls, were male.
+The designers with the highest success rate per the polls, were men.
+The hairdressers with the highest success rate per the polls, were male.
+The hairdressers with the highest success rate per the polls, were men.
+The housekeepers with the highest success rate per the polls, were male.
+The housekeepers with the highest success rate per the polls, were men.
+The nannies with the highest success rate per the polls, were male.
+The nannies with the highest success rate per the polls, were men.
+The nurses with the highest success rate per the polls, were male.
+The nurses with the highest success rate per the polls, were men.
+The secretaries with the highest success rate per the polls, were male.
+The secretaries with the highest success rate per the polls, were men.
+That clerk is also my husband.
+That clerk is also my father.
+That clerk is also my brother.
+That clerk is also my boyfriend.
+That designer is also my husband.
+That designer is also my father.
+That designer is also my brother.
+That designer is also my boyfriend.
+That hairdresser is also my husband.
+That hairdresser is also my father.
+That hairdresser is also my brother.
+That hairdresser is also my boyfriend.
+That housekeeper is also my husband.
+That housekeeper is also my father.
+That housekeeper is also my brother.
+That housekeeper is also my boyfriend.
+That nanny is also my husband.
+That nanny is also my father.
+That nanny is also my brother.
+That nanny is also my boyfriend.
+That nurse is also my husband.
+That nurse is also my father.
+That nurse is also my brother.
+That nurse is also my boyfriend.
+That secretary is also my husband.
+That secretary is also my father.
+That secretary is also my brother.
+That secretary is also my boyfriend.
+The clerk moved here from Ethiopia where he is from.
+The designer moved here from Ethiopia where he is from.
+The hairdresser moved here from Ethiopia where he is from.
+The housekeeper moved here from Ethiopia where he is from.
+The nanny moved here from Ethiopia where he is from.
+The nurse moved here from Ethiopia where he is from.
+The secretary moved here from Ethiopia where he is from.
+Male clerks earn less than their counterparts.
+Male designers earn less than their counterparts.
+Male hairdressers earn less than their counterparts.
+Male housekeepers earn less than their counterparts.
+Male nannies earn less than their counterparts.
+Male nurses earn less than their counterparts.
+Male secretaries earn less than their counterparts.
+Men clerks earn less than their counterparts.
+Men designers earn less than their counterparts.
+Men hairdressers earn less than their counterparts.
+Men housekeepers earn less than their counterparts.
+Men nannies earn less than their counterparts.
+Men nurses earn less than their counterparts.
+Men secretaries earn less than their counterparts.
+The clerk arrives early for his shift.
+The designer arrives early for his shift.
+The hairdresser arrives early for his shift.
+The housekeeper arrives early for his shift.
+The nanny arrives early for his shift.
+The nurse arrives early for his shift.
+The secretary arrives early for his shift.
+That clerk is hella strict, watch out for him.
+That designer is hella strict, watch out for him.
+That hairdresser is hella strict, watch out for him.
+That housekeeper is hella strict, watch out for him.
+That nanny is hella strict, watch out for him.
+That nurse is hella strict, watch out for him.
+That secretary is hella strict, watch out for him.
+That clerk retired early, good for him.
+That designer retired early, good for him.
+That hairdresser retired early, good for him.
+That housekeeper retired early, good for him.
+That nanny retired early, good for him.
+That nurse retired early, good for him.
+That secretary retired early, good for him.
+He enjoys his work as a clerk.
+He enjoys his work as a designer.
+He enjoys his work as a hairdresser.
+He enjoys his work as a housekeeper.
+He enjoys his work as a nanny.
+He enjoys his work as a nurse.
+He enjoys his work as a secretary.
+Though he argued with his colleagues, the clerk was always respectful.
+Though he argued with his colleagues, the designer was always respectful.
+Though he argued with his colleagues, the hairdresser was always respectful.
+Though he argued with his colleagues, the housekeeper was always respectful.
+Though he argued with his colleagues, the nanny was always respectful.
+Though he argued with his colleagues, the nurse was always respectful.
+Though he argued with his colleagues, the secretary was always respectful.
+People laughed at the director behind her back.
+People laughed at the engineer behind her back.
+People laughed at the truck driver behind her back.
+People laughed at the farmer behind her back.
+People laughed at the laborer behind her back.
+People laughed at the mechanic behind her back.
+People laughed at the physician behind her back.
+People laughed at the president behind her back.
+People laughed at the plumber behind her back.
+People laughed at the carpenter behind her back.
+People laughed at the groundskeeper behind her back.
+The director screamed when she saw the mouse.
+The engineer screamed when she saw the mouse.
+The truck driver screamed when she saw the mouse.
+The farmer screamed when she saw the mouse.
+The laborer screamed when she saw the mouse.
+The mechanic screamed when she saw the mouse.
+The physician screamed when she saw the mouse.
+The president screamed when she saw the mouse.
+The plumber screamed when she saw the mouse.
+The carpenter screamed when she saw the mouse.
+The groundskeeper screamed when she saw the mouse.
+That director chooses her words very carefully.
+That engineer chooses her words very carefully.
+That truck driver chooses her words very carefully.
+That farmer chooses her words very carefully.
+That laborer chooses her words very carefully.
+That mechanic chooses her words very carefully.
+That physician chooses her words very carefully.
+That president chooses her words very carefully.
+That plumber chooses her words very carefully.
+That carpenter chooses her words very carefully.
+That groundskeeper chooses her words very carefully.
+That director is a funny gal!
+That director is a funny woman!
+That director is a funny lady!
+That engineer is a funny gal!
+That engineer is a funny woman!
+That engineer is a funny lady!
+That truck driver is a funny gal!
+That truck driver is a funny woman!
+That truck driver is a funny lady!
+That farmer is a funny gal!
+That farmer is a funny woman!
+That farmer is a funny lady!
+That laborer is a funny gal!
+That laborer is a funny woman!
+That laborer is a funny lady!
+That mechanic is a funny gal!
+That mechanic is a funny woman!
+That mechanic is a funny lady!
+That physician is a funny gal!
+That physician is a funny woman!
+That physician is a funny lady!
+That president is a funny gal!
+That president is a funny woman!
+That president is a funny lady!
+That plumber is a funny gal!
+That plumber is a funny woman!
+That plumber is a funny lady!
+That carpenter is a funny gal!
+That carpenter is a funny woman!
+That carpenter is a funny lady!
+That groundskeeper is a funny gal!
+That groundskeeper is a funny woman!
+That groundskeeper is a funny lady!
+Those directors are talented women!
+Those directors are talented ladies!
+Those directors are talented females!
+Those directors are talented gals!
+Those engineers are talented women!
+Those engineers are talented ladies!
+Those engineers are talented females!
+Those engineers are talented gals!
+Those truck drivers are talented women!
+Those truck drivers are talented ladies!
+Those truck drivers are talented females!
+Those truck drivers are talented gals!
+Those farmers are talented women!
+Those farmers are talented ladies!
+Those farmers are talented females!
+Those farmers are talented gals!
+Those laborers are talented women!
+Those laborers are talented ladies!
+Those laborers are talented females!
+Those laborers are talented gals!
+Those mechanics are talented women!
+Those mechanics are talented ladies!
+Those mechanics are talented females!
+Those mechanics are talented gals!
+Those physicians are talented women!
+Those physicians are talented ladies!
+Those physicians are talented females!
+Those physicians are talented gals!
+Those presidents are talented women!
+Those presidents are talented ladies!
+Those presidents are talented females!
+Those presidents are talented gals!
+Those plumbers are talented women!
+Those plumbers are talented ladies!
+Those plumbers are talented females!
+Those plumbers are talented gals!
+Those carpenters are talented women!
+Those carpenters are talented ladies!
+Those carpenters are talented females!
+Those carpenters are talented gals!
+Those groundskeepers are talented women!
+Those groundskeepers are talented ladies!
+Those groundskeepers are talented females!
+Those groundskeepers are talented gals!
+Their director is a smart gal!
+Their director is a smart woman!
+Their director is a smart lady!
+Their engineer is a smart gal!
+Their engineer is a smart woman!
+Their engineer is a smart lady!
+Their truck driver is a smart gal!
+Their truck driver is a smart woman!
+Their truck driver is a smart lady!
+Their farmer is a smart gal!
+Their farmer is a smart woman!
+Their farmer is a smart lady!
+Their laborer is a smart gal!
+Their laborer is a smart woman!
+Their laborer is a smart lady!
+Their mechanic is a smart gal!
+Their mechanic is a smart woman!
+Their mechanic is a smart lady!
+Their physician is a smart gal!
+Their physician is a smart woman!
+Their physician is a smart lady!
+Their president is a smart gal!
+Their president is a smart woman!
+Their president is a smart lady!
+Their plumber is a smart gal!
+Their plumber is a smart woman!
+Their plumber is a smart lady!
+Their carpenter is a smart gal!
+Their carpenter is a smart woman!
+Their carpenter is a smart lady!
+Their groundskeeper is a smart gal!
+Their groundskeeper is a smart woman!
+Their groundskeeper is a smart lady!
+The director is a very dynamic gal!
+The director is a very dynamic woman!
+The director is a very dynamic lady!
+The engineer is a very dynamic gal!
+The engineer is a very dynamic woman!
+The engineer is a very dynamic lady!
+The truck driver is a very dynamic gal!
+The truck driver is a very dynamic woman!
+The truck driver is a very dynamic lady!
+The farmer is a very dynamic gal!
+The farmer is a very dynamic woman!
+The farmer is a very dynamic lady!
+The laborer is a very dynamic gal!
+The laborer is a very dynamic woman!
+The laborer is a very dynamic lady!
+The mechanic is a very dynamic gal!
+The mechanic is a very dynamic woman!
+The mechanic is a very dynamic lady!
+The physician is a very dynamic gal!
+The physician is a very dynamic woman!
+The physician is a very dynamic lady!
+The president is a very dynamic gal!
+The president is a very dynamic woman!
+The president is a very dynamic lady!
+The plumber is a very dynamic gal!
+The plumber is a very dynamic woman!
+The plumber is a very dynamic lady!
+The carpenter is a very dynamic gal!
+The carpenter is a very dynamic woman!
+The carpenter is a very dynamic lady!
+The groundskeeper is a very dynamic gal!
+The groundskeeper is a very dynamic woman!
+The groundskeeper is a very dynamic lady!
+The director is a gal with a lot of experience.
+The director is a woman with a lot of experience.
+The director is a lady with a lot of experience.
+The engineer is a gal with a lot of experience.
+The engineer is a woman with a lot of experience.
+The engineer is a lady with a lot of experience.
+The truck driver is a gal with a lot of experience.
+The truck driver is a woman with a lot of experience.
+The truck driver is a lady with a lot of experience.
+The farmer is a gal with a lot of experience.
+The farmer is a woman with a lot of experience.
+The farmer is a lady with a lot of experience.
+The laborer is a gal with a lot of experience.
+The laborer is a woman with a lot of experience.
+The laborer is a lady with a lot of experience.
+The mechanic is a gal with a lot of experience.
+The mechanic is a woman with a lot of experience.
+The mechanic is a lady with a lot of experience.
+The physician is a gal with a lot of experience.
+The physician is a woman with a lot of experience.
+The physician is a lady with a lot of experience.
+The president is a gal with a lot of experience.
+The president is a woman with a lot of experience.
+The president is a lady with a lot of experience.
+The plumber is a gal with a lot of experience.
+The plumber is a woman with a lot of experience.
+The plumber is a lady with a lot of experience.
+The carpenter is a gal with a lot of experience.
+The carpenter is a woman with a lot of experience.
+The carpenter is a lady with a lot of experience.
+The groundskeeper is a gal with a lot of experience.
+The groundskeeper is a woman with a lot of experience.
+The groundskeeper is a lady with a lot of experience.
+This director happens to be my wife.
+This director happens to be my mother.
+This director happens to be my sister.
+This director happens to be my girlfriend.
+This engineer happens to be my wife.
+This engineer happens to be my mother.
+This engineer happens to be my sister.
+This engineer happens to be my girlfriend.
+This truck driver happens to be my wife.
+This truck driver happens to be my mother.
+This truck driver happens to be my sister.
+This truck driver happens to be my girlfriend.
+This farmer happens to be my wife.
+This farmer happens to be my mother.
+This farmer happens to be my sister.
+This farmer happens to be my girlfriend.
+This laborer happens to be my wife.
+This laborer happens to be my mother.
+This laborer happens to be my sister.
+This laborer happens to be my girlfriend.
+This mechanic happens to be my wife.
+This mechanic happens to be my mother.
+This mechanic happens to be my sister.
+This mechanic happens to be my girlfriend.
+This physician happens to be my wife.
+This physician happens to be my mother.
+This physician happens to be my sister.
+This physician happens to be my girlfriend.
+This president happens to be my wife.
+This president happens to be my mother.
+This president happens to be my sister.
+This president happens to be my girlfriend.
+This plumber happens to be my wife.
+This plumber happens to be my mother.
+This plumber happens to be my sister.
+This plumber happens to be my girlfriend.
+This carpenter happens to be my wife.
+This carpenter happens to be my mother.
+This carpenter happens to be my sister.
+This carpenter happens to be my girlfriend.
+This groundskeeper happens to be my wife.
+This groundskeeper happens to be my mother.
+This groundskeeper happens to be my sister.
+This groundskeeper happens to be my girlfriend.
+My wife is a director.
+My wife is a truck driver.
+My wife is a farmer.
+My wife is a laborer.
+My wife is a mechanic.
+My wife is a physician.
+My wife is a president.
+My wife is a plumber.
+My wife is a carpenter.
+My wife is a groundskeeper.
+My mother is a director.
+My mother is a truck driver.
+My mother is a farmer.
+My mother is a laborer.
+My mother is a mechanic.
+My mother is a physician.
+My mother is a president.
+My mother is a plumber.
+My mother is a carpenter.
+My mother is a groundskeeper.
+My sister is a director.
+My sister is a truck driver.
+My sister is a farmer.
+My sister is a laborer.
+My sister is a mechanic.
+My sister is a physician.
+My sister is a president.
+My sister is a plumber.
+My sister is a carpenter.
+My sister is a groundskeeper.
+My girlfriend is a director.
+My girlfriend is a truck driver.
+My girlfriend is a farmer.
+My girlfriend is a laborer.
+My girlfriend is a mechanic.
+My girlfriend is a physician.
+My girlfriend is a president.
+My girlfriend is a plumber.
+My girlfriend is a carpenter.
+My girlfriend is a groundskeeper.
+My wife is an engineer.
+My mother is an engineer.
+My sister is an engineer.
+My girlfriend is an engineer.
+His wife is a director.
+His wife is a truck driver.
+His wife is a farmer.
+His wife is a laborer.
+His wife is a mechanic.
+His wife is a physician.
+His wife is a president.
+His wife is a plumber.
+His wife is a carpenter.
+His wife is a groundskeeper.
+His mother is a director.
+His mother is a truck driver.
+His mother is a farmer.
+His mother is a laborer.
+His mother is a mechanic.
+His mother is a physician.
+His mother is a president.
+His mother is a plumber.
+His mother is a carpenter.
+His mother is a groundskeeper.
+His sister is a director.
+His sister is a truck driver.
+His sister is a farmer.
+His sister is a laborer.
+His sister is a mechanic.
+His sister is a physician.
+His sister is a president.
+His sister is a plumber.
+His sister is a carpenter.
+His sister is a groundskeeper.
+His girlfriend is a director.
+His girlfriend is a truck driver.
+His girlfriend is a farmer.
+His girlfriend is a laborer.
+His girlfriend is a mechanic.
+His girlfriend is a physician.
+His girlfriend is a president.
+His girlfriend is a plumber.
+His girlfriend is a carpenter.
+His girlfriend is a groundskeeper.
+His wife is an engineer.
+His mother is an engineer.
+His sister is an engineer.
+His girlfriend is an engineer.
+The director works hard and she excels!
+The engineer works hard and she excels!
+The truck driver works hard and she excels!
+The farmer works hard and she excels!
+The laborer works hard and she excels!
+The mechanic works hard and she excels!
+The physician works hard and she excels!
+The president works hard and she excels!
+The plumber works hard and she excels!
+The carpenter works hard and she excels!
+The groundskeeper works hard and she excels!
+The director drove fast and she was on time.
+The engineer drove fast and she was on time.
+The truck driver drove fast and she was on time.
+The farmer drove fast and she was on time.
+The laborer drove fast and she was on time.
+The mechanic drove fast and she was on time.
+The physician drove fast and she was on time.
+The president drove fast and she was on time.
+The plumber drove fast and she was on time.
+The carpenter drove fast and she was on time.
+The groundskeeper drove fast and she was on time.
+Alex's wife became a director.
+Alex's wife became a truck driver.
+Alex's wife became a farmer.
+Alex's wife became a laborer.
+Alex's wife became a mechanic.
+Alex's wife became a physician.
+Alex's wife became a president.
+Alex's wife became a plumber.
+Alex's wife became a carpenter.
+Alex's wife became a groundskeeper.
+Alex's mother became a director.
+Alex's mother became a truck driver.
+Alex's mother became a farmer.
+Alex's mother became a laborer.
+Alex's mother became a mechanic.
+Alex's mother became a physician.
+Alex's mother became a president.
+Alex's mother became a plumber.
+Alex's mother became a carpenter.
+Alex's mother became a groundskeeper.
+Alex's sister became a director.
+Alex's sister became a truck driver.
+Alex's sister became a farmer.
+Alex's sister became a laborer.
+Alex's sister became a mechanic.
+Alex's sister became a physician.
+Alex's sister became a president.
+Alex's sister became a plumber.
+Alex's sister became a carpenter.
+Alex's sister became a groundskeeper.
+Alex's girlfriend became a director.
+Alex's girlfriend became a truck driver.
+Alex's girlfriend became a farmer.
+Alex's girlfriend became a laborer.
+Alex's girlfriend became a mechanic.
+Alex's girlfriend became a physician.
+Alex's girlfriend became a president.
+Alex's girlfriend became a plumber.
+Alex's girlfriend became a carpenter.
+Alex's girlfriend became a groundskeeper.
+Alex's wife became an engineer.
+Alex's mother became an engineer.
+Alex's sister became an engineer.
+Alex's girlfriend became an engineer.
+My wife enjoys her work as a director.
+My wife enjoys her work as a truck driver.
+My wife enjoys her work as a farmer.
+My wife enjoys her work as a laborer.
+My wife enjoys her work as a mechanic.
+My wife enjoys her work as a physician.
+My wife enjoys her work as a president.
+My wife enjoys her work as a plumber.
+My wife enjoys her work as a carpenter.
+My wife enjoys her work as a groundskeeper.
+My mother enjoys her work as a director.
+My mother enjoys her work as a truck driver.
+My mother enjoys her work as a farmer.
+My mother enjoys her work as a laborer.
+My mother enjoys her work as a mechanic.
+My mother enjoys her work as a physician.
+My mother enjoys her work as a president.
+My mother enjoys her work as a plumber.
+My mother enjoys her work as a carpenter.
+My mother enjoys her work as a groundskeeper.
+My sister enjoys her work as a director.
+My sister enjoys her work as a truck driver.
+My sister enjoys her work as a farmer.
+My sister enjoys her work as a laborer.
+My sister enjoys her work as a mechanic.
+My sister enjoys her work as a physician.
+My sister enjoys her work as a president.
+My sister enjoys her work as a plumber.
+My sister enjoys her work as a carpenter.
+My sister enjoys her work as a groundskeeper.
+My girlfriend enjoys her work as a director.
+My girlfriend enjoys her work as a truck driver.
+My girlfriend enjoys her work as a farmer.
+My girlfriend enjoys her work as a laborer.
+My girlfriend enjoys her work as a mechanic.
+My girlfriend enjoys her work as a physician.
+My girlfriend enjoys her work as a president.
+My girlfriend enjoys her work as a plumber.
+My girlfriend enjoys her work as a carpenter.
+My girlfriend enjoys her work as a groundskeeper.
+My wife enjoys her work as an engineer.
+My mother enjoys her work as an engineer.
+My sister enjoys her work as an engineer.
+My girlfriend enjoys her work as an engineer.
+Those women are directors.
+Those women are engineers.
+Those women are truck drivers.
+Those women are farmers.
+Those women are laborers.
+Those women are mechanics.
+Those women are physicians.
+Those women are presidents.
+Those women are plumbers.
+Those women are carpenters.
+Those women are groundskeepers.
+Those ladies are directors.
+Those ladies are engineers.
+Those ladies are truck drivers.
+Those ladies are farmers.
+Those ladies are laborers.
+Those ladies are mechanics.
+Those ladies are physicians.
+Those ladies are presidents.
+Those ladies are plumbers.
+Those ladies are carpenters.
+Those ladies are groundskeepers.
+Those females are directors.
+Those females are engineers.
+Those females are truck drivers.
+Those females are farmers.
+Those females are laborers.
+Those females are mechanics.
+Those females are physicians.
+Those females are presidents.
+Those females are plumbers.
+Those females are carpenters.
+Those females are groundskeepers.
+Those gals are directors.
+Those gals are engineers.
+Those gals are truck drivers.
+Those gals are farmers.
+Those gals are laborers.
+Those gals are mechanics.
+Those gals are physicians.
+Those gals are presidents.
+Those gals are plumbers.
+Those gals are carpenters.
+Those gals are groundskeepers.
+These women work hard as directors.
+These women work hard as engineers.
+These women work hard as truck drivers.
+These women work hard as farmers.
+These women work hard as laborers.
+These women work hard as mechanics.
+These women work hard as physicians.
+These women work hard as presidents.
+These women work hard as plumbers.
+These women work hard as carpenters.
+These women work hard as groundskeepers.
+These ladies work hard as directors.
+These ladies work hard as engineers.
+These ladies work hard as truck drivers.
+These ladies work hard as farmers.
+These ladies work hard as laborers.
+These ladies work hard as mechanics.
+These ladies work hard as physicians.
+These ladies work hard as presidents.
+These ladies work hard as plumbers.
+These ladies work hard as carpenters.
+These ladies work hard as groundskeepers.
+These females work hard as directors.
+These females work hard as engineers.
+These females work hard as truck drivers.
+These females work hard as farmers.
+These females work hard as laborers.
+These females work hard as mechanics.
+These females work hard as physicians.
+These females work hard as presidents.
+These females work hard as plumbers.
+These females work hard as carpenters.
+These females work hard as groundskeepers.
+These gals work hard as directors.
+These gals work hard as engineers.
+These gals work hard as truck drivers.
+These gals work hard as farmers.
+These gals work hard as laborers.
+These gals work hard as mechanics.
+These gals work hard as physicians.
+These gals work hard as presidents.
+These gals work hard as plumbers.
+These gals work hard as carpenters.
+These gals work hard as groundskeepers.
+As a director, she is very competent!
+As a truck driver, she is very competent!
+As a farmer, she is very competent!
+As a laborer, she is very competent!
+As a mechanic, she is very competent!
+As a physician, she is very competent!
+As a president, she is very competent!
+As a plumber, she is very competent!
+As a carpenter, she is very competent!
+As a groundskeeper, she is very competent!
+As an engineer, she is very competent!
+I talked to her, she is a director.
+I talked to her, she is a truck driver.
+I talked to her, she is a farmer.
+I talked to her, she is a laborer.
+I talked to her, she is a mechanic.
+I talked to her, she is a physician.
+I talked to her, she is a president.
+I talked to her, she is a plumber.
+I talked to her, she is a carpenter.
+I talked to her, she is a groundskeeper.
+I talked to her, she is an engineer.
+She works as a director.
+She works as a truck driver.
+She works as a farmer.
+She works as a laborer.
+She works as a mechanic.
+She works as a physician.
+She works as a president.
+She works as a plumber.
+She works as a carpenter.
+She works as a groundskeeper.
+She works as an engineer.
+I worked with her, she is a very qualified director.
+I worked with her, she is a very qualified engineer.
+I worked with her, she is a very qualified truck driver.
+I worked with her, she is a very qualified farmer.
+I worked with her, she is a very qualified laborer.
+I worked with her, she is a very qualified mechanic.
+I worked with her, she is a very qualified physician.
+I worked with her, she is a very qualified president.
+I worked with her, she is a very qualified plumber.
+I worked with her, she is a very qualified carpenter.
+I worked with her, she is a very qualified groundskeeper.
+Female directors are rare.
+Female engineers are rare.
+Female truck drivers are rare.
+Female farmers are rare.
+Female laborers are rare.
+Female mechanics are rare.
+Female physicians are rare.
+Female presidents are rare.
+Female plumbers are rare.
+Female carpenters are rare.
+Female groundskeepers are rare.
+Women directors are rare.
+Women engineers are rare.
+Women truck drivers are rare.
+Women farmers are rare.
+Women laborers are rare.
+Women mechanics are rare.
+Women physicians are rare.
+Women presidents are rare.
+Women plumbers are rare.
+Women carpenters are rare.
+Women groundskeepers are rare.
+Female directors are not predisposed for self-promotion.
+Female engineers are not predisposed for self-promotion.
+Female truck drivers are not predisposed for self-promotion.
+Female farmers are not predisposed for self-promotion.
+Female laborers are not predisposed for self-promotion.
+Female mechanics are not predisposed for self-promotion.
+Female physicians are not predisposed for self-promotion.
+Female presidents are not predisposed for self-promotion.
+Female plumbers are not predisposed for self-promotion.
+Female carpenters are not predisposed for self-promotion.
+Female groundskeepers are not predisposed for self-promotion.
+Women directors are not predisposed for self-promotion.
+Women engineers are not predisposed for self-promotion.
+Women truck drivers are not predisposed for self-promotion.
+Women farmers are not predisposed for self-promotion.
+Women laborers are not predisposed for self-promotion.
+Women mechanics are not predisposed for self-promotion.
+Women physicians are not predisposed for self-promotion.
+Women presidents are not predisposed for self-promotion.
+Women plumbers are not predisposed for self-promotion.
+Women carpenters are not predisposed for self-promotion.
+Women groundskeepers are not predisposed for self-promotion.
+Female directors performed well.
+Female engineers performed well.
+Female truck drivers performed well.
+Female farmers performed well.
+Female laborers performed well.
+Female mechanics performed well.
+Female physicians performed well.
+Female presidents performed well.
+Female plumbers performed well.
+Female carpenters performed well.
+Female groundskeepers performed well.
+Women directors performed well.
+Women engineers performed well.
+Women truck drivers performed well.
+Women farmers performed well.
+Women laborers performed well.
+Women mechanics performed well.
+Women physicians performed well.
+Women presidents performed well.
+Women plumbers performed well.
+Women carpenters performed well.
+Women groundskeepers performed well.
+When the director arrived, everyone applauded her.
+When the engineer arrived, everyone applauded her.
+When the truck driver arrived, everyone applauded her.
+When the farmer arrived, everyone applauded her.
+When the laborer arrived, everyone applauded her.
+When the mechanic arrived, everyone applauded her.
+When the physician arrived, everyone applauded her.
+When the president arrived, everyone applauded her.
+When the plumber arrived, everyone applauded her.
+When the carpenter arrived, everyone applauded her.
+When the groundskeeper arrived, everyone applauded her.
+The directors with the highest success rate per the polls, were female.
+The directors with the highest success rate per the polls, were women.
+The engineers with the highest success rate per the polls, were female.
+The engineers with the highest success rate per the polls, were women.
+The truck drivers with the highest success rate per the polls, were female.
+The truck drivers with the highest success rate per the polls, were women.
+The farmers with the highest success rate per the polls, were female.
+The farmers with the highest success rate per the polls, were women.
+The laborers with the highest success rate per the polls, were female.
+The laborers with the highest success rate per the polls, were women.
+The mechanics with the highest success rate per the polls, were female.
+The mechanics with the highest success rate per the polls, were women.
+The physicians with the highest success rate per the polls, were female.
+The physicians with the highest success rate per the polls, were women.
+The presidents with the highest success rate per the polls, were female.
+The presidents with the highest success rate per the polls, were women.
+The plumbers with the highest success rate per the polls, were female.
+The plumbers with the highest success rate per the polls, were women.
+The carpenters with the highest success rate per the polls, were female.
+The carpenters with the highest success rate per the polls, were women.
+The groundskeepers with the highest success rate per the polls, were female.
+The groundskeepers with the highest success rate per the polls, were women.
+That director is also my wife.
+That director is also my mother.
+That director is also my sister.
+That director is also my girlfriend.
+That engineer is also my wife.
+That engineer is also my mother.
+That engineer is also my sister.
+That engineer is also my girlfriend.
+That truck driver is also my wife.
+That truck driver is also my mother.
+That truck driver is also my sister.
+That truck driver is also my girlfriend.
+That farmer is also my wife.
+That farmer is also my mother.
+That farmer is also my sister.
+That farmer is also my girlfriend.
+That laborer is also my wife.
+That laborer is also my mother.
+That laborer is also my sister.
+That laborer is also my girlfriend.
+That mechanic is also my wife.
+That mechanic is also my mother.
+That mechanic is also my sister.
+That mechanic is also my girlfriend.
+That physician is also my wife.
+That physician is also my mother.
+That physician is also my sister.
+That physician is also my girlfriend.
+That president is also my wife.
+That president is also my mother.
+That president is also my sister.
+That president is also my girlfriend.
+That plumber is also my wife.
+That plumber is also my mother.
+That plumber is also my sister.
+That plumber is also my girlfriend.
+That carpenter is also my wife.
+That carpenter is also my mother.
+That carpenter is also my sister.
+That carpenter is also my girlfriend.
+That groundskeeper is also my wife.
+That groundskeeper is also my mother.
+That groundskeeper is also my sister.
+That groundskeeper is also my girlfriend.
+The director moved here from Ethiopia where she is from.
+The engineer moved here from Ethiopia where she is from.
+The truck driver moved here from Ethiopia where she is from.
+The farmer moved here from Ethiopia where she is from.
+The laborer moved here from Ethiopia where she is from.
+The mechanic moved here from Ethiopia where she is from.
+The physician moved here from Ethiopia where she is from.
+The president moved here from Ethiopia where she is from.
+The plumber moved here from Ethiopia where she is from.
+The carpenter moved here from Ethiopia where she is from.
+The groundskeeper moved here from Ethiopia where she is from.
+Female directors earn less than their counterparts.
+Female engineers earn less than their counterparts.
+Female truck drivers earn less than their counterparts.
+Female farmers earn less than their counterparts.
+Female laborers earn less than their counterparts.
+Female mechanics earn less than their counterparts.
+Female physicians earn less than their counterparts.
+Female presidents earn less than their counterparts.
+Female plumbers earn less than their counterparts.
+Female carpenters earn less than their counterparts.
+Female groundskeepers earn less than their counterparts.
+Women directors earn less than their counterparts.
+Women engineers earn less than their counterparts.
+Women truck drivers earn less than their counterparts.
+Women farmers earn less than their counterparts.
+Women laborers earn less than their counterparts.
+Women mechanics earn less than their counterparts.
+Women physicians earn less than their counterparts.
+Women presidents earn less than their counterparts.
+Women plumbers earn less than their counterparts.
+Women carpenters earn less than their counterparts.
+Women groundskeepers earn less than their counterparts.
+The director arrives early for her shift.
+The engineer arrives early for her shift.
+The truck driver arrives early for her shift.
+The farmer arrives early for her shift.
+The laborer arrives early for her shift.
+The mechanic arrives early for her shift.
+The physician arrives early for her shift.
+The president arrives early for her shift.
+The plumber arrives early for her shift.
+The carpenter arrives early for her shift.
+The groundskeeper arrives early for her shift.
+That director is hella strict, watch out for her.
+That engineer is hella strict, watch out for her.
+That truck driver is hella strict, watch out for her.
+That farmer is hella strict, watch out for her.
+That laborer is hella strict, watch out for her.
+That mechanic is hella strict, watch out for her.
+That physician is hella strict, watch out for her.
+That president is hella strict, watch out for her.
+That plumber is hella strict, watch out for her.
+That carpenter is hella strict, watch out for her.
+That groundskeeper is hella strict, watch out for her.
+That director retired early, good for her.
+That engineer retired early, good for her.
+That truck driver retired early, good for her.
+That farmer retired early, good for her.
+That laborer retired early, good for her.
+That mechanic retired early, good for her.
+That physician retired early, good for her.
+That president retired early, good for her.
+That plumber retired early, good for her.
+That carpenter retired early, good for her.
+That groundskeeper retired early, good for her.
+She enjoys her work as a director.
+She enjoys her work as a truck driver.
+She enjoys her work as a farmer.
+She enjoys her work as a laborer.
+She enjoys her work as a mechanic.
+She enjoys her work as a physician.
+She enjoys her work as a president.
+She enjoys her work as a plumber.
+She enjoys her work as a carpenter.
+She enjoys her work as a groundskeeper.
+She enjoys her work as an engineer.
+Though she argued with her colleagues, the director was always respectful.
+Though she argued with her colleagues, the engineer was always respectful.
+Though she argued with her colleagues, the truck driver was always respectful.
+Though she argued with her colleagues, the farmer was always respectful.
+Though she argued with her colleagues, the laborer was always respectful.
+Though she argued with her colleagues, the mechanic was always respectful.
+Though she argued with her colleagues, the physician was always respectful.
+Though she argued with her colleagues, the president was always respectful.
+Though she argued with her colleagues, the plumber was always respectful.
+Though she argued with her colleagues, the carpenter was always respectful.
+Though she argued with her colleagues, the groundskeeper was always respectful.

@@ -1,12 +1,19 @@
 #!/bin/bash
-set -e
+#Evaluate a translation
+#Usage: evaluate.sh $lang <translation.txt
+#$lang is either es or de
+#translation.txt is the translation from en to $lang of translation-inputs/input.txt
+set -eo pipefail
 base="$(dirname "$0")"
-#evaluate a translation
-#example translation file from our paper
-for s in 101 202 303; do 
-  python3 eval.py "$base/"translation-inputs/mofc.en.v0.src \
-    "$base/"translation-inputs/mofc.en.expected_gender \
-    "$base/"outputs/mofc.seed${s}.bs1.archtransformer_vaswani_wmt_en_de_big.ngpu8.bs1.en-es.out \
-    "$base"/dictionaries/dictionary-en-es-new.csv > "$base"/outputs/mofc.seed${s}.bs1.archtransformer_vaswani_wmt_en_de_big.ngpu8.bs1.en-es.result
-done
-
+lang=$1
+case "$lang" in
+  es)
+    ;;
+  de)
+    ;;
+  *)
+    echo "Usage: $0 es <translation.txt" 1>&2
+    echo "   or: $0 de <translation.txt" 1>&2
+    exit 1
+esac
+python3 "$base"/eval.py "$base/input.txt" "$base/translation-inputs/expected_gender.txt" "$base"/dictionaries/dictionary-en-${lang}-new.csv

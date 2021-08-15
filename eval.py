@@ -3,7 +3,36 @@
 __author__ = 'adirendu'
 
 import argparse
+import io
 import re
+import sys
+
+class Stats:
+    def __init__(self):
+        self.right = 0
+        self.wrong = 0
+        self.inconclusive = 0
+    def total(self):
+        return self.right + self.wrong + self.inconclusive
+    def __iadd__(self, other):
+        self.right += other.right
+        self.wrong += other.wrong
+        self.inconclusive += other.inconclusive
+    def __str__(self):
+        ret = f"right: {self.right}, inconclusive: {self.inconclusive}, wrong: {self.wrong}\n"
+        total = self.total()
+        return ret + f"right: {self.right/total}, inconclusive: {self.inconclusive/total}, wrong: {self.wrong/total}"
+
+class Buckets:
+    def __init__(self):
+        self.map = {
+            ('f', 'f') : Stats(),
+            ('f', 'm') : Stats(),
+            ('m', 'f') : Stats(),
+            ('m', 'm') : Stats(),
+        }
+    def bucket(self, expected, stereotype):
+        return self.map[(expected, stereotype)]
 
 if __name__ == '__main__':
     opt = argparse.ArgumentParser(description="write program description here")
@@ -11,7 +40,6 @@ if __name__ == '__main__':
     # insert options here
     opt.add_argument('src_file', type=str, help='this is a positional arg')
     opt.add_argument('expected_gender_file', type=str, help='this is a positional arg')
-    opt.add_argument('translation_file', type=str, help='this is a positional arg')
     opt.add_argument('dictionary', type=str, help='this is a positional arg')
     options = opt.parse_args()
 
@@ -20,16 +48,14 @@ if __name__ == '__main__':
         items = line.strip().split(',')
         dictionary[items[0].lower()] = {'m': items[1].lower().split('|'), 'f': items[2].lower().split('|')}
 
-    src_lines = open(options.src_file, 'r', encoding='utf-8').readlines()
-    translation_lines = open(options.translation_file, 'r', encoding='utf-8').readlines()
-    expected_gender_lines = open(options.expected_gender_file, 'r', encoding='utf-8').readlines()
-    correct = 0
-    wrong = 0
-    inconclusive = 0
+    src_lines = open(options.src_file, 'r', encoding='utf-8')
+    translation_lines = io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8')
+    expected_gender_lines = open(options.expected_gender_file, 'r', encoding='utf-8')
+    buckets = Buckets()
     for src_line, translation_line, expected_gender in zip(src_lines, translation_lines, expected_gender_lines):
         src_line = src_line.lower().strip()
         translation_line = translation_line.lower().strip()
-        expected_gender = expected_gender.strip().lower().split()[0]
+        expected_gender, stereotype_gender = expected_gender.strip().lower().split()
         for k in dictionary:
             k_re = re.compile(r'\b%s\b' % k, re.I)
             if k_re.search(src_line):
@@ -55,14 +81,18 @@ if __name__ == '__main__':
                             else: # expected gender == 'f'
                                 found_correct_match = True
                             break
+                stats = buckets.bucket(expected_gender, stereotype_gender)
                 if found_correct_match and found_wrong_match:
-                    inconclusive += 1.0
+                    stats.inconclusive += 1
                 elif not found_correct_match and not found_wrong_match:
-                    inconclusive += 1.0
+                    stats.inconclusive += 1
                 elif found_correct_match:
-                    correct += 1.0
+                    stats.right += 1
                 elif found_wrong_match:
-                    wrong += 1.0
-    total = correct + inconclusive + wrong
-    print(f"correct: {correct}, inconclusive: {inconclusive}, wrong: {wrong}")
-    print(f"correct%: {correct/total}, inconclusive%: {inconclusive/total}, wrong%: {wrong/total}")
+                    stats.wrong += 1
+    
+    print("Stereotype Context Right       Wrong       Inconclusive")
+    for occupation in ['f', 'm']:
+        for context in ['f', 'm']:
+            stats = buckets.bucket(context, occupation)
+            print("{: <10s} {: <7s} {: >3d} {:5.2f}%  {: >3d} {:5.2f}%  {:>3d} {:5.2f}%".format(occupation, context, stats.right, stats.right / stats.total() * 100.0, stats.wrong, stats.wrong / stats.total() * 100.0, stats.inconclusive, stats.inconclusive / stats.total() * 100.0))

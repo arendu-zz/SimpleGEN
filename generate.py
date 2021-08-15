@@ -20,6 +20,11 @@ def get_expected_gender(keys):
     assert expected is not None, "no expected gender after going through all keys"
     return expected
 
+def get_occupation_gender(keys):
+    occupations = [k for k in keys if k.startswith("[f-occupation") or k.startswith("[m-occupation")]
+    assert len(occupations) == 1, "Expected there to be exactly one gender stereotyped occpuation"
+    return occupations[0][1]
+
 if __name__ == '__main__':
     opt = argparse.ArgumentParser(description="generates en text based on the templates and terms.")
 
@@ -44,11 +49,12 @@ if __name__ == '__main__':
             values.append(terms[k])
         prod_values = list(product(*values))
         expected = get_expected_gender(keys)
+        occpuation_gender = get_occupation_gender(keys)
         for prod_vals in prod_values:
             words_copy = words[:]
             for pv, pv_position in zip(prod_vals, key_positions):
                 words_copy[pv_position] = pv
             words_copy[0] = words_copy[0].capitalize()
             words_copy = ' '.join(words_copy)
-            out = '\t'.join([words_copy.strip(), '\t'.join([expected]), '\t'.join(keys)])
+            out = '\t'.join([words_copy.strip(), expected, occpuation_gender, '\t'.join(keys)])
             print(out)
