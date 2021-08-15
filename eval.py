@@ -29,7 +29,7 @@ if __name__ == '__main__':
     for src_line, translation_line, expected_gender in zip(src_lines, translation_lines, expected_gender_lines):
         src_line = src_line.lower().strip()
         translation_line = translation_line.lower().strip()
-        expected_gender = expected_gender.strip().lower().strip()
+        expected_gender = expected_gender.strip().lower().split()[0]
         for k in dictionary:
             k_re = re.compile(r'\b%s\b' % k, re.I)
             if k_re.search(src_line):
