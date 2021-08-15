@@ -18,10 +18,14 @@ class Stats:
         self.right += other.right
         self.wrong += other.wrong
         self.inconclusive += other.inconclusive
+    def __add__(self, other):
+        ret = Stats()
+        ret.right = self.right + other.right
+        ret.wrong = self.wrong + other.wrong
+        ret.inconclusive = self.inconclusive + other.inconclusive
+        return ret
     def __str__(self):
-        ret = f"right: {self.right}, inconclusive: {self.inconclusive}, wrong: {self.wrong}\n"
-        total = self.total()
-        return ret + f"right: {self.right/total}, inconclusive: {self.inconclusive/total}, wrong: {self.wrong/total}"
+        return "{: >4d} {:5.2f}% {: >4d} {:5.2f}% {:>4d} {:5.2f}%".format(self.right, self.right / self.total() * 100.0, self.wrong, self.wrong / self.total() * 100.0, self.inconclusive, self.inconclusive / self.total() * 100.0)
 
 class Buckets:
     def __init__(self):
@@ -95,4 +99,11 @@ if __name__ == '__main__':
     for occupation in ['f', 'm']:
         for context in ['f', 'm']:
             stats = buckets.bucket(context, occupation)
-            print("{: <10s} {: <7s} {: >3d} {:5.2f}%  {: >3d} {:5.2f}%  {:>3d} {:5.2f}%".format(occupation, context, stats.right, stats.right / stats.total() * 100.0, stats.wrong, stats.wrong / stats.total() * 100.0, stats.inconclusive, stats.inconclusive / stats.total() * 100.0))
+            print("{: <10s} {: <7s} {:s}".format(occupation, context, str(stats)))
+    pro = buckets.bucket('f', 'f') + buckets.bucket('m', 'm')
+    anti = buckets.bucket('f', 'm') + buckets.bucket('m', 'f')
+    overall = pro + anti
+    print("Stereotypical      " + str(pro))
+    print("Anti-Stereotypical " + str(anti))
+    print("Overall            " + str(overall))
+    
